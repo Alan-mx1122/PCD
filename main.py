@@ -7,6 +7,7 @@ def clean(dirty_values):
     - Elimina caracteres no validos
     - Retorna el numero limpio como string
     """
+
     dirty_values = dirty_values.strip()
     if dirty_values == '':
         return ''
@@ -18,7 +19,7 @@ def clean(dirty_values):
     return pure_values
 
 def process_line(line):
-   """ 
+    """
     Procesa una linea completa:
     - Separa por comas
     - Limpia cada valor
@@ -26,9 +27,13 @@ def process_line(line):
     - Suma todos
     - Retorna el resultado
     """
-   if not line:
+
+    if not line:
+        return 0
+    line=line.strip()
     elements = line.split(',')
     result = 0
+
     for number in elements:
         add_value = clean(number)
         if add_value == "" or add_value == "." or add_value == "-":
@@ -37,7 +42,7 @@ def process_line(line):
             number_truncate = int(float(add_value))
             result += number_truncate
         except ValueError:
-            continue
+                return 0
     return result
 
 def main():
