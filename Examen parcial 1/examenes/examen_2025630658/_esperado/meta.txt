@@ -1,0 +1,12 @@
+variante=laboratorio
+matricula=2025630658
+decimales=1
+n_registros_validos=907
+n_grupos=8
+hash_datos=7a09c0758837336e25a6f89e48cfd9690a1a898e13d04ff56e8c6401693f079c
+archivo_datos=muestras_lab.csv
+clase_0=Micro,None,10.58
+clase_1=Pequeña,10.58,52.67
+clase_2=Mediana,52.67,151.26
+clase_3=Grande,151.26,349.31
+clase_4=Extra grande,349.31,None

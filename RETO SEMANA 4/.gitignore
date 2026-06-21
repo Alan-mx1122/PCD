@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.vscode/
+data/inventario.csv
+outputs/reporte_inventario.csv
+.DS_Store
+Thumbs.db

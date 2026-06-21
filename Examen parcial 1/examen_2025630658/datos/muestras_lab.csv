@@ -1,0 +1,1001 @@
+id_muestra,paciente,volumen,unidad,tipo_analisis
+MX-0001,Mariana Rosas,8.52,fl_oz,Hematología
+MX-0002,Iván Molina,310.37,ml,Hematología
+MX-0003,Jorge Montes,190.32,ml,Microbiología
+MX-0004,Miguel Sánchez,217.76,ml,Inmunología
+MX-0005,Fernanda Lara,46.46,ml,Química Sanguínea
+MX-0006,Carlos Hernández,17.83,fl_oz,Coagulación
+MX-0007,Fernanda Lara,338.36,ml,Inmunología
+MX-0008,Luis Torres,289.07,ml,Serología
+MX-0009,Mariana Rosas,12.42,fl_oz,Hematología
+MX-0010,Regina Navarro,218.31,?,Uroanálisis
+MX-0011,Raúl Domínguez,0.73,fl_oz,Uroanálisis
+MX-0012,Jorge Montes,14.3,fl_oz,Uroanálisis
+MX-0013,Valeria Ibarra,17.52,fl_oz,Química Sanguínea
+MX-0014,Elena Salazar,101.77,ml,Química Sanguínea
+MX-0015,Ana García,117.12,ml,Química Sanguínea
+MX-0016,Tomás Medina,233.9,ml,Química Sanguínea
+MX-0017,Gabriela Peña,0.81,fl_oz,Inmunología
+MX-0018,Mónica Espinoza,278.45,ml,Uroanálisis
+MX-0019,Ricardo Mendoza,80.3,ml,Inmunología
+MX-0020,Alejandro Ruiz,12.49,fl_oz,Química Sanguínea
+MX-0021,Andrés Morales,3.56,fl_oz,Hormonas
+MX-0022,Andrés Morales,7.93,fl_oz,Hormonas
+MX-0023,Óscar Delgado,218.75,ml,Química Sanguínea
+MX-0024,Jorge Montes,314.24,ml,Serología
+MX-0025,Carlos Hernández,12.69,fl_oz,Serología
+MX-0026,Iván Molina,16.19,fl_oz,Serología
+MX-0027,Daniela Castillo,542.6,ml,Hormonas
+MX-0028,Carlos Hernández,7.03,fl_oz,Hematología
+MX-0029,Óscar Delgado,99.09,ml,Hormonas
+MX-0030,Renata Campos,12.56,fl_oz,Hormonas
+MX-0031,Andrea Ríos,415.27,ml,Serología
+MX-0032,Adriana Pacheco,145.4,ml,Hematología
+MX-0033,Paula Vargas,14.38,fl_oz,Química Sanguínea
+MX-0034,Óscar Delgado,319.62,ml,Coagulación
+MX-0035,Jimena Herrera,1.42,fl_oz,Química Sanguínea
+MX-0036,Elena Salazar,116.22,ml,Hormonas
+MX-0037,Sofía Martínez,19.79,fl_oz,Uroanálisis
+MX-0038,Óscar Delgado,15.45,fl_oz,Hormonas
+MX-0039,Tomás Medina,393.77,ml,Inmunología
+MX-0040,María López,515.26,ml,Química Sanguínea
+MX-0041,Javier Cruz,545.0,ml,Uroanálisis
+MX-0042,Felipe Sandoval,219.08,ml,Coagulación
+MX-0043,Felipe Sandoval,5.48,fl_oz,Microbiología
+MX-0044,Lorena Cervantes,19.09,fl_oz,Química Sanguínea
+MX-0045,Elena Salazar,15.24,fl_oz,Hematología
+MX-0046,Carlos Hernández,18.26,fl_oz,Inmunología
+MX-0047,Mónica Espinoza,6.15,fl_oz,Serología
+MX-0048,Valeria Ibarra,11.88,fl_oz,Hormonas
+MX-0049,Camila Díaz,19.09,fl_oz,Hematología
+MX-0050,Alejandro Ruiz,14.35,fl_oz,Uroanálisis
+MX-0051,Felipe Sandoval,8.63,fl_oz,Coagulación
+MX-0052,Ricardo Mendoza,0.36,fl_oz,Uroanálisis,dato_extra,93
+MX-0053,Regina Navarro,6.08,ZZ,Hormonas
+MX-0054,Daniela Castillo,496.02,ml,Química Sanguínea
+MX-0055,Daniela Castillo,1.95
+MX-0056,Diego Rodríguez,536.13,ml,Microbiología
+MX-0057,Elena Salazar,47.07,ml,Hematología
+MX-0058,Pablo Contreras,502.91,ml,Química Sanguínea
+MX-0059,Diana Vázquez,7.27,fl_oz,Coagulación
+MX-0060,Raúl Domínguez,582.75,ml,Química Sanguínea
+MX-0061,Valeria Ibarra,16.59,fl_oz,Química Sanguínea
+MX-0062,Gabriela Peña,1.2,fl_oz,Microbiología
+MX-0063,Tomás Medina,14.39,fl_oz,Hormonas
+MX-0064,Sofía Martínez,7.98,fl_oz,Inmunología
+MX-0065,Jimena Herrera,507.53,ml,Hematología
+MX-0066,Ana García,11.5,fl_oz,Química Sanguínea
+MX-0067,Manuel Estrada,0.24,fl_oz,Coagulación
+MX-0068,Daniela Castillo,17.19,fl_oz,Química Sanguínea
+MX-0069,Alejandro Ruiz,13.09,fl_oz,Uroanálisis
+MX-0070,Óscar Delgado,8.57,ml,Microbiología
+MX-0071,Daniela Castillo,0.4,fl_oz,Coagulación
+MX-0072,Héctor Aguilar,565.76,ml,Uroanálisis
+MX-0073,Elena Salazar
+MX-0074,Alejandro Ruiz,16.61,ml,Inmunología
+MX-0075,Paula Vargas,352.83,ml,Uroanálisis
+MX-0076,Felipe Sandoval,10.56,fl_oz,Serología
+MX-0077,Tomás Medina,438.52,ml,Hormonas
+
+MX-0079,Tomás Medina,430.84,ml,Química Sanguínea
+MX-0080,Paula Vargas,0.33,fl_oz,Hormonas
+MX-0081,Óscar Delgado,324.74,ml,Hematología
+MX-0082,Renata Campos,218.83,ml,Coagulación
+MX-0083,Paula Vargas,161.03,ml,Química Sanguínea
+MX-0084,Felipe Sandoval,464.81,ml,Serología
+MX-0085,Ernesto Rojas,91.51,ml,Coagulación
+MX-0086,Jimena Herrera,16.44,fl_oz,Serología
+MX-0087,Ana García,358.78,ml,Coagulación
+MX-0088,Pablo Contreras,504.85,ml,Hematología
+MX-0089,Miguel Sánchez,547.49,ml,Química Sanguínea
+MX-0090,Renata Campos,14.23,fl_oz,Hormonas
+MX-0091,Lorena Cervantes,14.29,fl_oz,Hormonas
+MX-0092,Luis Torres,15.7,fl_oz,Hormonas
+MX-0093,Ernesto Rojas,2.51,fl_oz,Inmunología
+MX-0094,Manuel Estrada,50.09,ml,Hematología
+MX-0095,Valeria Ibarra,91.23,ml,Inmunología
+MX-0096,Miguel Sánchez,15.59,fl_oz,Serología
+MX-0097,Tomás Medina,260.78,ml,Coagulación
+MX-0098,Lucía Reyes,18.1,fl_oz,Microbiología
+MX-0099,María López,276.39,ml,Microbiología
+MX-0100,Arturo Rangel,6.45,fl_oz,Hormonas
+MX-0101,Jimena Herrera,17.12,fl_oz,Uroanálisis
+MX-0102,Adriana Pacheco,9.48,fl_oz,Microbiología
+MX-0103,Jimena Herrera,263.55,ml,Serología
+MX-0104,Jimena Herrera,500.23,ml,Coagulación
+MX-0105,Renata Campos,500.32,ml,Inmunología
+MX-0106,Valentina Flores,174.55,ml,Inmunología
+MX-0107,María López,574.92,ml,Microbiología
+MX-0108,Miguel Sánchez,4.98,fl_oz,Química Sanguínea
+MX-0109,Jimena Herrera,15.23,fl_oz,Inmunología
+MX-0110,Isabella Ramírez,12.63,fl_oz,Coagulación
+MX-0111,Sergio Vega,536.48,ml,Uroanálisis,dato_extra,85
+MX-0112,Fernando Ortiz,489.95,ml,Inmunología
+MX-0113,Alejandro Ruiz,14.37,fl_oz,Hormonas
+MX-0114,Arturo Rangel,--,fl_oz,Química Sanguínea
+MX-0115,Lucía Reyes,58.62,ml,Serología
+MX-0116,Miguel Sánchez,472.56,ml,Inmunología
+MX-0117,Carlos Hernández,0.67,fl_oz,Serología
+MX-0118,Pablo Contreras,9.79,fl_oz,Hematología
+MX-0119,Fernando Ortiz,3.1,fl_oz,Hematología
+MX-0120,Mónica Espinoza,62.35,ml,Coagulación
+MX-0121,Ricardo Mendoza,171.61,ml,Uroanálisis
+MX-0122,Jimena Herrera,4.43,fl_oz,Hematología
+MX-0123,Jimena Herrera,599.53,ml,Microbiología
+MX-0124,Mónica Espinoza,16.67,fl_oz,Química Sanguínea
+MX-0125,Manuel Estrada,3.9,fl_oz,Coagulación
+MX-0126,Paula Vargas,9.66,fl_oz,Inmunología
+MX-0127,Sofía Martínez,118.27,ml,Química Sanguínea
+MX-0128,Mariana Rosas,10.87,fl_oz,Química Sanguínea,dato_extra,53
+MX-0129,Alejandro Ruiz,128.32,ml,Serología
+MX-0130,Gabriela Peña,18.51,fl_oz,Inmunología
+MX-0131,Felipe Sandoval,--,ml,Hormonas
+MX-0132,Iván Molina,43.59,ml,Hormonas,dato_extra,79
+MX-0133,Felipe Sandoval,0.67,fl_oz,Uroanálisis
+MX-0134,Isabella Ramírez,99.96,ml,Química Sanguínea
+MX-0135,Arturo Rangel,161.56,ml,Química Sanguínea
+MX-0136,Sofía Martínez,2.64,fl_oz,Uroanálisis
+MX-0137,Fernando Ortiz,79.06,ml,Inmunología
+MX-0138,Adriana Pacheco,7.26,fl_oz,Microbiología
+MX-0139,Javier Cruz,36.29,ml,Coagulación
+MX-0140,Mariana Rosas,5.16,fl_oz,Química Sanguínea
+MX-0141,Javier Cruz,176.71,ml,Inmunología
+MX-0142,Jorge Montes
+MX-0143,Pablo Contreras,292.77,ml,Química Sanguínea
+MX-0144,Carlos Hernández,13.86,fl_oz,Uroanálisis
+MX-0145,Héctor Aguilar,0.76,fl_oz,Serología
+MX-0146,Natalia Guerrero,8.57,fl_oz,Coagulación
+MX-0147,Emilio Fuentes,4.1,fl_oz,Inmunología
+MX-0148,Diana Vázquez,9.77,fl_oz,Hormonas
+MX-0149,Valeria Ibarra,15.99,fl_oz,Microbiología
+MX-0150,Andrés Morales,15.8,fl_oz,Inmunología
+MX-0151,Andrea Ríos,321.39,ml,Hormonas
+MX-0152,Paula Vargas,121.43,ml,Microbiología
+MX-0153,Mariana Rosas,11.82,fl_oz,Química Sanguínea
+MX-0154,Jorge Montes,19.36,fl_oz,Uroanálisis
+MX-0155,Camila Díaz,365.86,ml,Serología
+MX-0156,Mariana Rosas,1.81,fl_oz,Coagulación
+MX-0157,Andrés Morales,5.91,fl_oz,Hematología
+MX-0158,Isabella Ramírez,10.43,fl_oz,Coagulación
+MX-0159,Isabella Ramírez,4.23,fl_oz,Coagulación
+MX-0160,Fernanda Lara,8.19,fl_oz,Hormonas
+MX-0161,Lorena Cervantes,19.13,fl_oz,Hematología
+MX-0162,Renata Campos,330.71,ml,Microbiología
+MX-0163,Emilio Fuentes,5.81,fl_oz,Inmunología
+MX-0164,Elena Salazar,218.68,ml,Química Sanguínea
+MX-0165,Mariana Rosas,12.96,fl_oz,Hormonas
+MX-0166,Jorge Montes,577.69,ml,Coagulación
+MX-0167,Emilio Fuentes,467.72,ml,Inmunología
+MX-0168,Daniela Castillo,412.67,ml,Hematología
+MX-0169,Tomás Medina,496.69,ml,Serología
+
+MX-0171,Felipe Sandoval,520.4,ml,Microbiología
+MX-0172,Emilio Fuentes,30.5,ml,Inmunología
+MX-0173,Iván Molina,11.37,fl_oz,Uroanálisis
+MX-0174,Fernando Ortiz,26.02,ml,Microbiología
+MX-0175,Renata Campos,7.41,fl_oz,Hormonas
+MX-0176,Raúl Domínguez,2.73,fl_oz,Uroanálisis
+MX-0177,Óscar Delgado,8.78,fl_oz,Hormonas
+MX-0178,Héctor Aguilar,6.98,fl_oz,Serología
+MX-0179,Alejandro Ruiz,580.68,ml,Coagulación
+MX-0180,Iván Molina,12.65
+MX-0181,Isabella Ramírez,271.48,ml,Microbiología
+MX-0182,Óscar Delgado,461.96,ml,Hormonas
+MX-0183,Sofía Martínez
+MX-0184,Miguel Sánchez,2.53,fl_oz,Coagulación
+MX-0185,Catalina Guzmán,576.6,ml,Serología
+MX-0186,Elena Salazar,8.09,fl_oz,Serología
+MX-0187,Sofía Martínez,10.27,fl_oz,Coagulación
+MX-0188,Eduardo Silva,9.73,fl_oz,Coagulación
+MX-0189,Óscar Delgado,225.07,ml,Hematología
+MX-0190,Camila Díaz,--,fl_oz,Hormonas
+MX-0191,Héctor Aguilar,14.3,fl_oz,Uroanálisis
+MX-0192,Emilio Fuentes,2.36,fl_oz,Serología
+
+MX-0194,Daniela Castillo
+MX-0195,Emilio Fuentes,420.43,ml,Coagulación
+MX-0196,Sofía Martínez,569.42,ml,Microbiología
+MX-0197,Manuel Estrada,318.08,ml,Serología
+MX-0198,Carlos Hernández,error,fl_oz,Hormonas
+MX-0199,Regina Navarro,164.26,ml,Coagulación
+MX-0200,Tomás Medina,513.81,ml,Uroanálisis
+MX-0201,Carlos Hernández,2.32,fl_oz,Química Sanguínea
+MX-0202,Roberto Jiménez,230.06,ml,Hormonas
+MX-0203,Adriana Pacheco,312.44,ml,Hematología
+MX-0204,Andrés Morales,544.92,ml,Uroanálisis
+MX-0205,Javier Cruz,3.87,fl_oz,Serología
+MX-0206,Eduardo Silva,7.82,fl_oz,Uroanálisis,dato_extra,14
+MX-0207,Arturo Rangel,421.07,ml,Química Sanguínea
+MX-0208,Sergio Vega,11.74,fl_oz,Microbiología
+MX-0209,Sofía Martínez,3.76,fl_oz,Química Sanguínea
+MX-0210,Miguel Sánchez,9.62,fl_oz,Serología
+MX-0211,Ernesto Rojas,null,ml,Química Sanguínea
+MX-0212,Jimena Herrera,14.83,?,Coagulación
+MX-0213,Raúl Domínguez,136.75,ml,Inmunología
+MX-0214,Camila Díaz,3.25,fl_oz,Uroanálisis
+MX-0215,Manuel Estrada,7.54,fl_oz,Microbiología
+MX-0216,Natalia Guerrero,214.35,ml,Microbiología
+MX-0217,Andrea Ríos,7.38,fl_oz,Inmunología
+MX-0218,Paula Vargas,9.96,fl_oz,Coagulación
+MX-0219,Ernesto Rojas,81.07,ml,Inmunología
+MX-0220,Fernanda Lara,316.36,ml,Inmunología
+MX-0221,Jimena Herrera,530.42,ml,Serología
+MX-0222,Ricardo Mendoza,128.08,ml,Coagulación
+MX-0223,Roberto Jiménez,591.9,ml,Coagulación
+MX-0224,Carlos Hernández,88.08,ml,Hematología
+MX-0225,Lucía Reyes,194.49,ml,Coagulación
+MX-0226,Paula Vargas,13.82,fl_oz,Hematología
+MX-0227,Carlos Hernández,11.08,fl_oz,Microbiología
+MX-0228,Eduardo Silva,12.44,fl_oz,Hormonas
+MX-0229,Iván Molina,13.23,ml,Coagulación
+MX-0230,Valeria Ibarra,4.01,fl_oz,Hematología
+MX-0231,Camila Díaz,209.89,ml,Inmunología
+MX-0232,Regina Navarro,16.71,fl_oz,Hormonas
+MX-0233,Jimena Herrera,347.0,ml,Uroanálisis
+MX-0234,Valentina Flores,308.84,ml,Uroanálisis
+MX-0235,Eduardo Silva,17.57,fl_oz,Coagulación
+MX-0236,Fernanda Lara,18.15,fl_oz,Serología
+MX-0237,Eduardo Silva,210.89,ml,Hormonas
+MX-0238,Lucía Reyes,209.88,ml,Inmunología
+MX-0239,Roberto Jiménez,17.72,fl_oz,Uroanálisis
+MX-0240,Emilio Fuentes,18.03,fl_oz,Uroanálisis
+MX-0241,Andrea Ríos,5.23,fl_oz,Hormonas
+MX-0242,Sergio Vega,190.37,ml,Uroanálisis
+MX-0243,Miguel Sánchez,6.45,fl_oz,Hematología
+MX-0244,Elena Salazar,113.18,ml,Hematología
+MX-0245,Eduardo Silva,60.34,ml,Uroanálisis
+MX-0246,Raúl Domínguez,11.21,fl_oz,Química Sanguínea
+MX-0247,Valentina Flores,7.8,fl_oz,Hematología
+MX-0248,Diana Vázquez,86.77,ml,Inmunología
+MX-0249,Mónica Espinoza,17.63,fl_oz,Química Sanguínea
+MX-0250,Andrés Morales,10.18,fl_oz,Hematología
+MX-0251,Emilio Fuentes,15.37,fl_oz,Coagulación
+MX-0252,Catalina Guzmán,159.16,ml,Coagulación
+MX-0253,Gabriela Peña,216.16,ml,Coagulación
+MX-0254,Carlos Hernández,4.44,fl_oz,Uroanálisis
+MX-0255,Tomás Medina,13.88,fl_oz,Química Sanguínea
+MX-0256,Arturo Rangel,1.98,fl_oz,Hormonas
+MX-0257,Jimena Herrera,15.9,fl_oz,Química Sanguínea
+MX-0258,Javier Cruz,234.88,ml,Hematología
+
+
+MX-0261,Valentina Flores,8.0,fl_oz,Serología
+MX-0262,Regina Navarro,19.16,fl_oz,Serología
+MX-0263,Andrés Morales,18.88,fl_oz,Hormonas
+MX-0264,Héctor Aguilar,386.04,ml,Hematología
+MX-0265,Mariana Rosas,14.11,fl_oz,Hematología
+MX-0266,Catalina Guzmán,4.88,fl_oz,Microbiología
+MX-0267,Andrés Morales,11.44,fl_oz,Uroanálisis
+
+MX-0269,Gabriela Peña,2.92,fl_oz,Hematología
+MX-0270,Mariana Rosas,9.37,fl_oz,Microbiología
+MX-0271,Carlos Hernández,472.42,ml,Hematología
+MX-0272,Paula Vargas,394.39,ml,Hormonas
+MX-0273,Ricardo Mendoza,17.6,fl_oz,Microbiología
+MX-0274,Paula Vargas,N/A,fl_oz,Serología
+MX-0275,Mariana Rosas,9.61,fl_oz,Serología
+MX-0276,Sergio Vega,5.5,fl_oz,Microbiología
+MX-0277,Felipe Sandoval,166.93,ml,Hormonas
+MX-0278,Raúl Domínguez,427.62,ml,Serología
+MX-0279,Tomás Medina,9.2,fl_oz,Hormonas
+MX-0280,Óscar Delgado,14.59,fl_oz,Inmunología
+MX-0281,Sofía Martínez,N/A,fl_oz,Microbiología
+MX-0282,Paula Vargas,17.18,ml,Microbiología
+MX-0283,Isabella Ramírez,10.84,fl_oz,Uroanálisis
+MX-0284,Miguel Sánchez,10.01,fl_oz,Uroanálisis
+MX-0285,María López,10.43,fl_oz,Hormonas
+MX-0286,Iván Molina,5.16,fl_oz,Hematología
+MX-0287,Manuel Estrada,11.89,fl_oz,Química Sanguínea
+MX-0288,Ernesto Rojas,15.04,fl_oz,Química Sanguínea
+MX-0289,Javier Cruz,362.64,ml,Microbiología
+MX-0290,Mónica Espinoza,0.9,fl_oz,Uroanálisis
+MX-0291,Lorena Cervantes,2.95,fl_oz,Microbiología
+MX-0292,Raúl Domínguez,592.25,ml,Hematología
+MX-0293,Ana García,17.94,fl_oz,Química Sanguínea
+MX-0294,Carlos Hernández,36.32,ml,Serología
+MX-0295,Andrés Morales,8.99,fl_oz,Serología
+MX-0296,Alejandro Ruiz,346.37,ml,Química Sanguínea
+MX-0297,Alejandro Ruiz,404.55,ml,Uroanálisis
+MX-0298,Isabella Ramírez,280.02,ml,Uroanálisis
+MX-0299,Valentina Flores,12.79,fl_oz,Serología
+MX-0300,Roberto Jiménez,3.53,fl_oz,Microbiología
+MX-0301,Miguel Sánchez,1.4,fl_oz,Coagulación
+MX-0302,Arturo Rangel,305.38,ml,Hormonas
+MX-0303,Luis Torres,440.58,ml,Uroanálisis
+MX-0304,Mariana Rosas,436.46,ml,Coagulación
+MX-0305,Mónica Espinoza,11.52,fl_oz,Serología
+MX-0306,Isabella Ramírez,44.34,ml,Coagulación
+MX-0307,Daniela Castillo,244.27,ml,Hematología
+MX-0308,Camila Díaz,18.65,fl_oz,Uroanálisis
+MX-0309,Alejandro Ruiz,7.22,fl_oz,Microbiología
+MX-0310,Felipe Sandoval,14.54,fl_oz,Microbiología
+MX-0311,Diana Vázquez,10.86,fl_oz,Hormonas
+MX-0312,Adriana Pacheco,9.01,fl_oz,Coagulación
+MX-0313,Óscar Delgado,8.32,fl_oz,Inmunología
+MX-0314,Fernanda Lara,6.93,fl_oz,Microbiología
+MX-0315,Valentina Flores,596.89,ml,Química Sanguínea
+MX-0316,Javier Cruz,574.99,ml,Serología
+MX-0317,Ernesto Rojas,386.9,ml,Hormonas
+MX-0318,Gabriela Peña,27.93,ml,Coagulación
+MX-0319,Mónica Espinoza,3.0,fl_oz,Uroanálisis
+MX-0320,Mónica Espinoza,424.46,ml,Inmunología
+MX-0321,Miguel Sánchez,403.02,ml,Inmunología
+MX-0322,Regina Navarro,14.75,fl_oz,Inmunología
+MX-0323,Ana García,error,ml,Uroanálisis
+MX-0324,Fernando Ortiz,7.35,fl_oz,Uroanálisis
+MX-0325,Sergio Vega,191.79,ml,Serología
+MX-0326,Valeria Ibarra,1.49,fl_oz,Hematología
+MX-0327,Ernesto Rojas,432.26,ml,Hematología
+MX-0328,Alejandro Ruiz,93.2,ml,Inmunología
+MX-0329,Paula Vargas,234.43,ml,Coagulación
+MX-0330,Andrés Morales,8.85,fl_oz,Hormonas
+MX-0331,Arturo Rangel,70.72,ml,Hormonas
+MX-0332,Regina Navarro,11.57,fl_oz,Coagulación
+MX-0333,Javier Cruz,592.93,ml,Hormonas
+MX-0334,Valeria Ibarra,2.34,fl_oz,Hormonas
+MX-0335,Sofía Martínez,15.76,fl_oz,Uroanálisis
+MX-0336,Miguel Sánchez,1.17,fl_oz,Serología
+MX-0337,Héctor Aguilar,16.01,fl_oz,Hormonas,dato_extra,81
+MX-0338,Eduardo Silva,1.26,fl_oz,Hormonas
+MX-0339,Andrea Ríos,133.01,ml,Uroanálisis
+MX-0340,Paula Vargas,0.72,fl_oz,Uroanálisis
+MX-0341,Iván Molina,533.92,ml,Coagulación
+MX-0342,Valentina Flores,360.52,ml,Inmunología
+MX-0343,Isabella Ramírez,564.28,ml,Coagulación
+MX-0344,Elena Salazar,342.43,ml,Uroanálisis
+MX-0345,Ana García,4.36,fl_oz,Coagulación
+MX-0346,Tomás Medina,6.91,fl_oz,Coagulación
+MX-0347,Sergio Vega,#REF!,ml,Hematología
+MX-0348,Luis Torres,254.22,ml,Inmunología
+MX-0349,Elena Salazar,13.03,fl_oz,Uroanálisis
+MX-0350,Daniela Castillo,0.78,fl_oz,Coagulación
+MX-0351,Valeria Ibarra,225.87,ml,Hematología
+MX-0352,Pablo Contreras,9.84,fl_oz,Química Sanguínea
+MX-0353,Sofía Martínez,532.4,ml,Química Sanguínea
+MX-0354,Fernanda Lara,391.43,ml,Inmunología
+MX-0355,Isabella Ramírez,6.81,fl_oz,Inmunología
+MX-0356,Mariana Rosas,146.68,ml,Química Sanguínea
+MX-0357,Gabriela Peña,9.62,fl_oz,Uroanálisis
+MX-0358,Gabriela Peña,4.88,fl_oz,Química Sanguínea
+MX-0359,Diego Rodríguez,4.34,fl_oz,Serología
+MX-0360,Ricardo Mendoza,82.88,ml,Inmunología,dato_extra,50
+MX-0361,Héctor Aguilar,591.7,ml,Uroanálisis
+MX-0362,Andrés Morales,245.31,ml,Serología
+
+MX-0364,Valentina Flores,18.23,fl_oz,Coagulación
+MX-0365,Miguel Sánchez,303.02,ml,Microbiología
+MX-0366,Andrea Ríos,434.26,ml,Hormonas
+MX-0367,Sergio Vega,8.1,fl_oz,Uroanálisis
+
+MX-0369,Daniela Castillo,237.61,ml,Hematología
+MX-0370,Ernesto Rojas,0.61,fl_oz,Hematología
+MX-0371,Gabriela Peña,null,fl_oz,Química Sanguínea
+MX-0372,Arturo Rangel,5.16,fl_oz,Química Sanguínea
+MX-0373,Valeria Ibarra,542.9,ml,Inmunología
+MX-0374,Valentina Flores,11.65,fl_oz,Microbiología
+MX-0375,Andrés Morales,2.26,fl_oz,Inmunología
+MX-0376,Regina Navarro,48.15,ml,Hematología
+MX-0377,Gabriela Peña,172.87,ml,Hormonas
+MX-0378,Raúl Domínguez,204.97,ml,Química Sanguínea
+MX-0379,Lucía Reyes,17.42,fl_oz,Uroanálisis
+MX-0380,Felipe Sandoval,380.29
+MX-0381,Andrea Ríos,1.91,fl_oz,Coagulación
+MX-0382,Fernando Ortiz,437.12,ml,Microbiología
+MX-0383,Felipe Sandoval,538.14,ml,Química Sanguínea
+MX-0384,Ricardo Mendoza,544.22,ml,Coagulación
+MX-0385,Renata Campos,7.18,fl_oz,Serología
+MX-0386,Pablo Contreras,19.29,fl_oz,Hematología
+MX-0387,Fernando Ortiz,397.2,ml,Microbiología
+MX-0388,Luis Torres,16.65,fl_oz,Uroanálisis
+MX-0389,Sofía Martínez,4.23,fl_oz,Coagulación
+MX-0390,Ernesto Rojas,15.48,fl_oz,Hematología
+MX-0391,Valeria Ibarra,17.58,fl_oz,Hormonas
+MX-0392,Lucía Reyes,316.6,ml,Hormonas
+MX-0393,Pablo Contreras,239.19,ml,Inmunología
+MX-0394,Regina Navarro,3.42,fl_oz,Hematología
+MX-0395,Mariana Rosas,10.08,fl_oz,Microbiología
+MX-0396,Ricardo Mendoza,19.42,fl_oz,Microbiología
+MX-0397,Mariana Rosas,484.08,ml,Inmunología
+MX-0398,Roberto Jiménez,225.17,ml,Inmunología
+MX-0399,Valeria Ibarra,72.8,ml,Coagulación
+MX-0400,Jimena Herrera,19.06,fl_oz,Uroanálisis
+MX-0401,Valeria Ibarra,19.57,fl_oz,Coagulación
+MX-0402,Ricardo Mendoza,462.77,ml,Química Sanguínea
+MX-0403,Luis Torres,27.85,ml,Microbiología
+MX-0404,Lucía Reyes,89.65,ml,Serología
+MX-0405,Ricardo Mendoza,405.16,ml,Química Sanguínea
+MX-0406,Lorena Cervantes,19.58,fl_oz,Serología
+MX-0407,Valentina Flores,17.03,fl_oz,Serología
+MX-0408,Miguel Sánchez,#REF!,ml,Microbiología
+MX-0409,Óscar Delgado,18.19,fl_oz,Inmunología
+MX-0410,Manuel Estrada,15.94,?,Coagulación
+MX-0411,Ernesto Rojas,592.03,ml,Hematología
+MX-0412,Ana García,337.35,ml,Hematología
+MX-0413,Miguel Sánchez,191.87,ml,Hormonas
+MX-0414,Diego Rodríguez,2.63,fl_oz,Inmunología
+MX-0415,Ana García,13.7,fl_oz,Hormonas
+MX-0416,Emilio Fuentes,19.67,fl_oz,Coagulación
+MX-0417,Lucía Reyes,9.47,fl_oz,Coagulación
+MX-0418,Diana Vázquez,596.89,ml,Coagulación
+MX-0419,Daniela Castillo,5.58,fl_oz,Hormonas
+MX-0420,Lucía Reyes,409.1,ml,Química Sanguínea
+MX-0421,Pablo Contreras,1.2,fl_oz,Coagulación
+MX-0422,Paula Vargas,325.8,ml,Coagulación
+MX-0423,Mariana Rosas,120.4,ml,Inmunología
+MX-0424,Ana García,4.24,fl_oz,Hormonas
+MX-0425,Felipe Sandoval,599.2,ml,Hematología
+MX-0426,Regina Navarro
+MX-0427,Mariana Rosas,123.92,ml,Uroanálisis
+MX-0428,Luis Torres,332.02,ml,Serología
+MX-0429,Mariana Rosas,3.95,fl_oz,Química Sanguínea
+MX-0430,Tomás Medina,326.88,ml,Coagulación
+MX-0431,Fernando Ortiz,337.28,ml,Hormonas
+MX-0432,Valentina Flores,61.03,ml,Coagulación
+MX-0433,Ana García,477.27,ml,Serología
+MX-0434,Alejandro Ruiz,322.54,ml,Inmunología
+MX-0435,Renata Campos,10.74,fl_oz,Inmunología
+MX-0436,Raúl Domínguez,576.17,ml,Microbiología
+MX-0437,Catalina Guzmán,2.27,fl_oz,Inmunología
+MX-0438,Adriana Pacheco,1.86,fl_oz,Microbiología
+MX-0439,Manuel Estrada,50.55,ml,Hematología
+MX-0440,Valeria Ibarra,165.21,ml,Microbiología
+MX-0441,Catalina Guzmán,592.43,ml,Microbiología,dato_extra,32
+MX-0442,Camila Díaz,2.62,fl_oz,Hematología
+MX-0443,Miguel Sánchez,14.71,fl_oz,Microbiología
+MX-0444,Ana García,30.69,ml,Microbiología
+MX-0445,Tomás Medina,439.97,ml,Uroanálisis
+MX-0446,Carlos Hernández,5.44,ml,Coagulación
+MX-0447,Jorge Montes,9.33,ml,Química Sanguínea
+MX-0448,Miguel Sánchez,4.51,fl_oz,Química Sanguínea
+MX-0449,Diego Rodríguez,,ml,Uroanálisis
+MX-0450,Natalia Guerrero,7.68,fl_oz,Inmunología
+MX-0451,Luis Torres,3.48,fl_oz,Serología
+MX-0452,Luis Torres,168.48,ml,Inmunología
+MX-0453,Paula Vargas,138.67,ml,Uroanálisis
+MX-0454,Mónica Espinoza,0.29,fl_oz
+MX-0455,Eduardo Silva,4.66,fl_oz,Coagulación
+MX-0456,Raúl Domínguez,8.84,fl_oz,Coagulación
+MX-0457,Valeria Ibarra,528.82,ml,Hormonas
+MX-0458,Mónica Espinoza,338.38,ml,Inmunología
+MX-0459,Eduardo Silva,545.92,ml,Hormonas
+MX-0460,Pablo Contreras,10.96,fl_oz,Serología
+MX-0461,Lorena Cervantes,318.69,ml,Microbiología
+MX-0462,Ana García,311.24,ml,Microbiología
+MX-0463,Andrés Morales,12.55,fl_oz,Coagulación
+MX-0464,Camila Díaz,254.93,ml,Hematología
+MX-0465,Javier Cruz,0.5,fl_oz,Inmunología
+MX-0466,Diego Rodríguez,12.04,fl_oz,Inmunología
+MX-0467,Renata Campos,0.91,fl_oz,Coagulación
+MX-0468,Javier Cruz,136.88,ml,Microbiología
+MX-0469,Valeria Ibarra,11.89,fl_oz,Inmunología
+MX-0470,Felipe Sandoval,3.38,fl_oz,Serología
+MX-0471,Felipe Sandoval,11.03,fl_oz,Hormonas
+MX-0472,Andrés Morales,8.85,fl_oz,Coagulación
+MX-0473,Catalina Guzmán,84.15,ml,Hormonas
+MX-0474,Pablo Contreras,4.31,fl_oz,Hematología
+MX-0475,Fernanda Lara,17.52,fl_oz,Serología
+MX-0476,Mariana Rosas,7.48,fl_oz,Microbiología
+MX-0477,Iván Molina,10.33,fl_oz,Inmunología
+MX-0478,Gabriela Peña,135.55,ml,Hormonas
+MX-0479,Ana García,#REF!,ml,Coagulación
+MX-0480,Fernando Ortiz,5.93,fl_oz,Uroanálisis
+MX-0481,Natalia Guerrero,17.2,fl_oz,Química Sanguínea
+MX-0482,Andrés Morales,502.4,ml,Hormonas
+MX-0483,Gabriela Peña,13.93,fl_oz,Uroanálisis
+MX-0484,Natalia Guerrero,524.25,ml,Hematología
+MX-0485,Javier Cruz,18.92,fl_oz,Hormonas
+MX-0486,Emilio Fuentes,552.69,ml,Microbiología
+MX-0487,Andrés Morales,510.88,ml,Hematología
+MX-0488,Ernesto Rojas,5.47,fl_oz,Química Sanguínea
+MX-0489,Andrea Ríos,18.33,fl_oz,Hormonas
+MX-0490,Carlos Hernández,15.17,fl_oz
+MX-0491,María López,15.34,fl_oz,Química Sanguínea
+MX-0492,Manuel Estrada,290.53,ml,Uroanálisis
+MX-0493,Renata Campos,15.84,fl_oz,Serología
+MX-0494,Pablo Contreras,469.06,ml,Coagulación
+MX-0495,Elena Salazar,307.51,ml,Química Sanguínea
+MX-0496,Sofía Martínez,17.56,fl_oz,Hormonas
+MX-0497,Renata Campos,19.8,fl_oz,Uroanálisis
+MX-0498,Diego Rodríguez,11.77,fl_oz,Inmunología
+MX-0499,Diana Vázquez,51.0,ml,Inmunología
+MX-0500,Gabriela Peña
+MX-0501,Ana García,14.69,fl_oz,Uroanálisis
+MX-0502,Lorena Cervantes,7.47,fl_oz,Hormonas
+MX-0503,Lorena Cervantes,80.86,ml,Uroanálisis
+MX-0504,Tomás Medina,10.58,fl_oz,Hematología
+MX-0505,Lucía Reyes,18.19,fl_oz,Química Sanguínea
+MX-0506,Héctor Aguilar,12.63,fl_oz,Inmunología
+MX-0507,Isabella Ramírez,75.49,ml,Inmunología
+MX-0508,Fernanda Lara,364.46,ml,Hormonas
+MX-0509,Valentina Flores,19.94,fl_oz,Coagulación
+MX-0510,Gabriela Peña,191.55,ml,Inmunología
+MX-0511,Jimena Herrera,19.76,fl_oz,Hormonas
+MX-0512,María López,N/A,ml,Microbiología
+MX-0513,Jorge Montes,15.52,fl_oz,Serología
+MX-0514,Gabriela Peña,1.77,fl_oz,Coagulación
+MX-0515,Mónica Espinoza,19.77,fl_oz,Química Sanguínea
+MX-0516,Emilio Fuentes,264.75,ml,Coagulación
+MX-0517,Ana García,13.97,fl_oz,Hematología
+MX-0518,Daniela Castillo,35.31,ml,Hormonas
+MX-0519,Luis Torres,414.09,ml,Coagulación
+MX-0520,Sergio Vega,1.46,fl_oz,Hematología
+MX-0521,Camila Díaz,3.03,fl_oz,Uroanálisis
+MX-0522,Eduardo Silva,24.64,ml,Uroanálisis
+MX-0523,Valeria Ibarra,3.92,fl_oz,Coagulación
+MX-0524,Natalia Guerrero,11.43,fl_oz,Inmunología
+MX-0525,Tomás Medina,573.42,ml,Coagulación
+MX-0526,Andrea Ríos,18.49,fl_oz,Inmunología
+MX-0527,Adriana Pacheco,13.74,fl_oz,Hematología
+MX-0528,Raúl Domínguez,3.6,fl_oz,Química Sanguínea
+MX-0529,Héctor Aguilar,2.96,fl_oz,Inmunología
+MX-0530,Felipe Sandoval,321.65,ml,Serología
+MX-0531,Paula Vargas,6.24,fl_oz,Inmunología
+MX-0532,Andrea Ríos,6.84,fl_oz,Uroanálisis
+MX-0533,Carlos Hernández,8.28,fl_oz,Química Sanguínea
+MX-0534,Manuel Estrada,3.88,fl_oz,Hormonas
+MX-0535,Eduardo Silva,9.88,fl_oz,Coagulación
+MX-0536,Catalina Guzmán,266.62,ml,Hormonas
+MX-0537,Ernesto Rojas,169.26,ml,Hormonas
+MX-0538,Diego Rodríguez,166.89,ml,Hormonas
+MX-0539,Daniela Castillo,11.25,fl_oz,Inmunología
+MX-0540,Lucía Reyes,171.14,ml,Química Sanguínea
+MX-0541,Valentina Flores,19.56,fl_oz,Serología
+MX-0542,Manuel Estrada,65.15,ml,Química Sanguínea
+MX-0543,Pablo Contreras,11.35,fl_oz,Química Sanguínea
+MX-0544,Catalina Guzmán,17.4,fl_oz,Coagulación,dato_extra,71
+MX-0545,Catalina Guzmán,369.17,ml,Microbiología
+MX-0546,Mónica Espinoza,18.62,fl_oz,Hormonas
+MX-0547,Jimena Herrera,6.89,fl_oz,Uroanálisis
+
+MX-0549,Ernesto Rojas,8.6,fl_oz,Química Sanguínea
+MX-0550,Iván Molina,360.27,ml,Inmunología
+MX-0551,Camila Díaz,214.39,ml,Hematología
+MX-0552,Elena Salazar,2.7,fl_oz,Microbiología
+MX-0553,Emilio Fuentes,7.11,fl_oz
+MX-0554,Valeria Ibarra,417.62,ml,Microbiología
+MX-0555,Mariana Rosas,14.19,fl_oz,Hormonas
+MX-0556,Diana Vázquez,18.2,fl_oz,Inmunología
+MX-0557,Camila Díaz,19.91,fl_oz,Química Sanguínea
+MX-0558,Ana García,514.31,ml,Química Sanguínea
+MX-0559,Manuel Estrada,18.41,fl_oz,Coagulación,dato_extra,74
+MX-0560,Valentina Flores,6.2,fl_oz,Serología
+MX-0561,Luis Torres,6.09,fl_oz,Microbiología
+MX-0562,Fernanda Lara,446.59,ml,Química Sanguínea
+MX-0563,Mónica Espinoza,410.58,ml,Serología
+MX-0564,Javier Cruz,68.67,ml,Microbiología
+MX-0565,Javier Cruz,0.96,fl_oz,Hormonas
+MX-0566,Daniela Castillo,18.35,fl_oz,Hormonas
+MX-0567,Lucía Reyes,459.68,ml,Hormonas
+MX-0568,Andrea Ríos,501.2,ml,Microbiología
+MX-0569,Jimena Herrera,192.65,ml,Microbiología
+MX-0570,Sofía Martínez,513.44,ml,Coagulación,dato_extra,40
+MX-0571,Felipe Sandoval,335.24,ml,Coagulación
+MX-0572,Alejandro Ruiz,388.17,ml,Uroanálisis
+MX-0573,Ana García,8.41,fl_oz,Uroanálisis
+MX-0574,Alejandro Ruiz,299.34,ml,Coagulación
+MX-0575,Eduardo Silva,2.4,fl_oz,Hematología
+MX-0576,Mónica Espinoza,506.93,ml,Inmunología
+MX-0577,Raúl Domínguez,2.55,fl_oz,Inmunología
+MX-0578,Ricardo Mendoza,1.13,fl_oz,Química Sanguínea
+MX-0579,Camila Díaz,1.41,fl_oz,Uroanálisis
+MX-0580,Renata Campos,87.85,ml,Uroanálisis
+MX-0581,Ricardo Mendoza,132.95,ml,Química Sanguínea
+MX-0582,Adriana Pacheco,17.58,fl_oz,Uroanálisis
+MX-0583,Valeria Ibarra,10.48,fl_oz,Inmunología
+MX-0584,Lucía Reyes,515.13,ml,Coagulación
+MX-0585,Héctor Aguilar,51.82,ml,Hormonas
+MX-0586,Jimena Herrera,356.45,ml,Química Sanguínea
+MX-0587,Ana García,401.35,ml,Química Sanguínea
+MX-0588,Andrés Morales,40.18,ml,Química Sanguínea
+MX-0589,Felipe Sandoval,270.6,ml,Coagulación
+MX-0590,Andrea Ríos,N/A,ml,Inmunología
+MX-0591,Mariana Rosas,15.08,fl_oz,Microbiología
+MX-0592,Miguel Sánchez,13.91,fl_oz,Hematología
+MX-0593,Ernesto Rojas,2.15,fl_oz,Coagulación
+MX-0594,Iván Molina,187.62,ml,Microbiología
+MX-0595,Manuel Estrada,281.34,ml,Coagulación
+MX-0596,Luis Torres,25.57,ml,Uroanálisis
+MX-0597,Gabriela Peña,1.51,fl_oz,Serología
+MX-0598,Roberto Jiménez,13.95,fl_oz,Química Sanguínea
+MX-0599,Tomás Medina,54.01,ml,Hormonas
+MX-0600,Ricardo Mendoza,14.71,fl_oz,Química Sanguínea
+MX-0601,Roberto Jiménez,192.4,ml,Química Sanguínea
+MX-0602,Lucía Reyes,565.23,ml,Hematología
+MX-0603,Luis Torres,63.32,ml,Uroanálisis
+MX-0604,Pablo Contreras,342.12,ml,Uroanálisis
+MX-0605,Jorge Montes,3.24,fl_oz,Química Sanguínea
+MX-0606,Jimena Herrera,6.54,fl_oz,Hormonas
+MX-0607,Valeria Ibarra,207.63,ml,Microbiología
+MX-0608,Ana García,4.53,fl_oz,Química Sanguínea
+MX-0609,María López,158.04,ml,Uroanálisis
+MX-0610,Pablo Contreras,217.19,ml,Serología
+MX-0611,Javier Cruz,113.54,ml,Uroanálisis
+MX-0612,Miguel Sánchez,533.68,ml,Inmunología
+MX-0613,Mariana Rosas,8.02,fl_oz,Serología
+MX-0614,María López,15.88,ZZ,Microbiología
+MX-0615,Diana Vázquez,498.03,ml,Inmunología
+MX-0616,Pablo Contreras,4.18,fl_oz,Hematología
+MX-0617,Mónica Espinoza,15.81,fl_oz,Hormonas
+MX-0618,Luis Torres,191.09,ml,Hormonas
+MX-0619,Camila Díaz,0.32,fl_oz,Hormonas
+MX-0620,Diego Rodríguez,308.82,ml,Coagulación
+MX-0621,Andrea Ríos,172.63,ml,Serología
+MX-0622,Mariana Rosas,5.09,fl_oz,Uroanálisis
+MX-0623,Mónica Espinoza,595.67,ml,Química Sanguínea
+MX-0624,Elena Salazar,168.0,ml,Hematología
+MX-0625,Natalia Guerrero,3.3,fl_oz,Serología
+MX-0626,Daniela Castillo,125.74,ml,Hormonas
+MX-0627,Héctor Aguilar,39.96,ml,Uroanálisis
+MX-0628,Tomás Medina,#REF!,ml,Microbiología
+MX-0629,Renata Campos,N/A,ml,Hematología
+MX-0630,Miguel Sánchez,552.26,ml,Microbiología
+MX-0631,Miguel Sánchez,--,fl_oz,Química Sanguínea
+MX-0632,Jimena Herrera,184.34,ml,Uroanálisis
+MX-0633,Miguel Sánchez,6.9,ml,Inmunología
+MX-0634,Paula Vargas,15.86,fl_oz,Serología
+MX-0635,Felipe Sandoval,14.63,ml,Hormonas
+MX-0636,Catalina Guzmán,0.78,fl_oz,Hormonas
+MX-0637,Renata Campos,16.12,fl_oz,Inmunología
+MX-0638,Diego Rodríguez,1.35,fl_oz,Microbiología
+MX-0639,Diego Rodríguez,3.95,fl_oz,Hormonas
+MX-0640,Regina Navarro,320.38,ml,Microbiología
+MX-0641,Felipe Sandoval,18.07,fl_oz,Hematología
+MX-0642,Ricardo Mendoza,5.63,fl_oz,Hematología
+MX-0643,Carlos Hernández,353.31,ml,Serología
+MX-0644,Emilio Fuentes,506.01,ml,Inmunología
+MX-0645,Manuel Estrada
+MX-0646,Javier Cruz,,ml,Química Sanguínea
+MX-0647,Carlos Hernández,0.91,fl_oz,Hematología
+MX-0648,Iván Molina,529.52,ml,Uroanálisis
+MX-0649,Jimena Herrera,12.11,fl_oz,Hematología
+MX-0650,Fernando Ortiz,5.69,?,Serología
+MX-0651,Javier Cruz,,ml,Inmunología
+MX-0652,Jorge Montes,10.39,fl_oz,Serología
+MX-0653,Ricardo Mendoza,9.78,fl_oz,Serología,dato_extra,44
+MX-0654,Arturo Rangel,154.79,ml,Coagulación
+MX-0655,Jimena Herrera,134.84,ml,Uroanálisis
+MX-0656,Regina Navarro,201.18,ml,Hormonas
+MX-0657,Arturo Rangel,13.22,fl_oz,Hormonas
+MX-0658,Óscar Delgado,278.69,ml,Microbiología
+MX-0659,Carlos Hernández,428.84,ml,Inmunología
+MX-0660,Manuel Estrada,19.57,fl_oz,Hematología
+MX-0661,Natalia Guerrero,1.55,fl_oz,Química Sanguínea
+MX-0662,Gabriela Peña,16.03,fl_oz,Coagulación
+MX-0663,Felipe Sandoval,82.82,ml,Inmunología
+MX-0664,Jorge Montes,17.84,fl_oz,Coagulación
+MX-0665,María López,242.19,ml,Química Sanguínea
+MX-0666,Isabella Ramírez,19.07,fl_oz,Hormonas
+MX-0667,Isabella Ramírez,269.09,ml,Inmunología
+MX-0668,Mariana Rosas,429.39,ml,Uroanálisis
+MX-0669,Diana Vázquez,419.18,ml,Serología
+MX-0670,Daniela Castillo,6.3,fl_oz,Hematología
+MX-0671,Roberto Jiménez,17.18,fl_oz,Coagulación
+MX-0672,Valeria Ibarra,13.98,fl_oz,Hematología
+MX-0673,Héctor Aguilar,149.24,ml,Química Sanguínea
+MX-0674,Andrea Ríos,142.72,ml,Hematología
+MX-0675,Ana García,6.27,fl_oz,Hematología
+MX-0676,Jimena Herrera,19.33,fl_oz,Química Sanguínea
+MX-0677,Felipe Sandoval,200.14,ml,Inmunología
+MX-0678,Gabriela Peña,494.03,ml,Uroanálisis
+MX-0679,Tomás Medina,583.69,ml,Serología
+MX-0680,Roberto Jiménez,7.85
+MX-0681,Lorena Cervantes,565.53,ml,Química Sanguínea
+MX-0682,Miguel Sánchez,592.6,ml,Microbiología
+MX-0683,Lucía Reyes,594.61,ml,Uroanálisis
+MX-0684,Miguel Sánchez,381.56,ml,Serología
+MX-0685,Héctor Aguilar,6.26,fl_oz,Hematología
+MX-0686,Lorena Cervantes,12.33,fl_oz,Hematología
+MX-0687,Diego Rodríguez,4.42,fl_oz,Coagulación
+MX-0688,Gabriela Peña,9.9,fl_oz
+MX-0689,Andrés Morales,209.26,ml,Coagulación
+MX-0690,Adriana Pacheco,0.34,fl_oz,Inmunología
+MX-0691,Regina Navarro,413.67,ml,Coagulación
+MX-0692,Diego Rodríguez,475.35,ml,Hormonas
+MX-0693,Fernando Ortiz
+MX-0694,Jimena Herrera,596.05,ml,Microbiología
+MX-0695,Andrea Ríos,500.86,ml,Coagulación
+MX-0696,Isabella Ramírez,0.2,fl_oz,Hematología
+MX-0697,Catalina Guzmán,458.91,ml,Inmunología
+MX-0698,Jimena Herrera,289.56,ml,Uroanálisis
+MX-0699,Isabella Ramírez,101.79,ml,Hematología
+MX-0700,Emilio Fuentes,12.79,fl_oz,Microbiología
+MX-0701,Pablo Contreras,47.66,ml,Uroanálisis
+MX-0702,Pablo Contreras,177.27,ml,Hormonas
+MX-0703,Lorena Cervantes,error,fl_oz,Microbiología
+MX-0704,Fernando Ortiz,9.34,fl_oz,Coagulación
+MX-0705,Jimena Herrera,13.47,fl_oz,Inmunología
+MX-0706,Óscar Delgado,518.36,ml,Química Sanguínea
+MX-0707,Ricardo Mendoza,136.97,ml,Hematología
+MX-0708,Lorena Cervantes,14.29,fl_oz,Química Sanguínea
+MX-0709,Ernesto Rojas,4.07,fl_oz,Hormonas
+MX-0710,Valeria Ibarra,214.66,ml,Hematología
+MX-0711,Renata Campos,12.19,fl_oz,Química Sanguínea
+MX-0712,Natalia Guerrero,295.24,K,Microbiología
+MX-0713,Manuel Estrada,136.48,ml,Hormonas
+MX-0714,Tomás Medina,18.3,fl_oz,Uroanálisis
+MX-0715,Ernesto Rojas,8.79,?,Coagulación
+MX-0716,Roberto Jiménez,0.8,fl_oz,Uroanálisis
+MX-0717,Paula Vargas,337.75,ml,Inmunología
+MX-0718,Lorena Cervantes,4.51,fl_oz,Coagulación
+MX-0719,Jorge Montes,6.18,fl_oz,Microbiología
+MX-0720,Manuel Estrada,373.67,ml,Inmunología
+MX-0721,Valeria Ibarra,5.2,fl_oz,Hematología
+MX-0722,María López,440.54,ml,Uroanálisis
+MX-0723,Raúl Domínguez,8.78,fl_oz,Inmunología
+MX-0724,Isabella Ramírez,592.56,ml,Serología
+MX-0725,Paula Vargas,19.96,fl_oz,Hematología
+MX-0726,Héctor Aguilar,5.13,fl_oz,Microbiología,dato_extra,33
+MX-0727,Lucía Reyes,45.32,ml,Química Sanguínea
+MX-0728,Elena Salazar,85.01,ml,Hematología
+MX-0729,Andrea Ríos,154.97,ml,Inmunología
+MX-0730,Carlos Hernández,417.54,ml,Inmunología
+MX-0731,Tomás Medina,320.91,ml,Inmunología
+MX-0732,Valentina Flores,null,fl_oz,Microbiología
+MX-0733,Diana Vázquez,440.47,ml,Uroanálisis
+MX-0734,Andrea Ríos,440.37,ml,Química Sanguínea
+MX-0735,Adriana Pacheco,355.66,ml,Química Sanguínea
+MX-0736,Arturo Rangel,6.74,fl_oz,Hematología
+MX-0737,Alejandro Ruiz,2.98,fl_oz,Inmunología
+MX-0738,Lucía Reyes,14.19,fl_oz,Inmunología
+MX-0739,Pablo Contreras,2.7
+MX-0740,Ernesto Rojas,59.35,ml,Química Sanguínea
+MX-0741,Raúl Domínguez,555.35,ml,Serología
+MX-0742,Elena Salazar,128.0,ml,Serología
+MX-0743,Natalia Guerrero,8.16,fl_oz,Coagulación
+MX-0744,Mariana Rosas,249.79,ml,Inmunología
+MX-0745,Natalia Guerrero,522.73,ml,Hematología
+MX-0746,Paula Vargas,557.04,ml,Serología
+MX-0747,Ana García,3.24,fl_oz,Microbiología
+MX-0748,Felipe Sandoval,0.63,fl_oz,Coagulación
+MX-0749,Catalina Guzmán,3.97,fl_oz,Hematología
+MX-0750,Iván Molina
+MX-0751,Jorge Montes,538.49,ml,Coagulación
+MX-0752,Fernanda Lara,254.02,ml,Hematología
+MX-0753,Diana Vázquez,192.56,ml,Uroanálisis
+MX-0754,Emilio Fuentes,3.38,fl_oz,Hormonas
+MX-0755,Fernando Ortiz,597.32,ZZ,Coagulación
+MX-0756,Jimena Herrera,347.71,ml,Hormonas
+MX-0757,Emilio Fuentes,6.21,fl_oz,Coagulación
+MX-0758,Daniela Castillo,593.81,ml,Coagulación
+MX-0759,Ernesto Rojas,15.53,fl_oz,Hematología
+MX-0760,María López,245.2,ml,Inmunología
+MX-0761,Adriana Pacheco,216.38,ml,Uroanálisis
+MX-0762,Sergio Vega,466.76,ml,Coagulación
+MX-0763,Raúl Domínguez,54.11,ml,Hormonas
+MX-0764,Sergio Vega,19.65,fl_oz,Hematología
+MX-0765,Renata Campos,4.19,fl_oz,Coagulación
+MX-0766,María López,,ml,Uroanálisis
+MX-0767,Lorena Cervantes,11.6,fl_oz,Inmunología
+MX-0768,Diego Rodríguez,528.0,ml,Química Sanguínea
+MX-0769,Manuel Estrada,389.4,ml,Microbiología
+MX-0770,Daniela Castillo,6.35,fl_oz,Uroanálisis
+MX-0771,Lorena Cervantes,7.25,fl_oz,Inmunología
+MX-0772,Fernanda Lara,393.7,ml,Hormonas
+MX-0773,Paula Vargas,14.46,fl_oz,Coagulación,dato_extra,83
+MX-0774,Jimena Herrera,5.6,fl_oz,Serología
+MX-0775,Andrea Ríos,14.14,fl_oz,Serología
+MX-0776,Carlos Hernández,471.25,ml,Uroanálisis
+MX-0777,Renata Campos,1.5,fl_oz,Química Sanguínea
+MX-0778,Adriana Pacheco,232.7,ml,Microbiología
+MX-0779,Andrés Morales,15.52,fl_oz,Hormonas
+MX-0780,Isabella Ramírez,1.44,fl_oz,Coagulación
+MX-0781,Javier Cruz,7.34,fl_oz,Hormonas
+MX-0782,Ana García,8.55,fl_oz,Microbiología
+MX-0783,Iván Molina,19.43,fl_oz,Serología
+MX-0784,Iván Molina,6.06,fl_oz,Serología
+MX-0785,Raúl Domínguez,1.44,fl_oz,Química Sanguínea
+MX-0786,Mónica Espinoza,12.03,fl_oz,Uroanálisis
+MX-0787,Arturo Rangel,10.7,fl_oz,Microbiología
+MX-0788,Renata Campos,2.04,fl_oz,Inmunología
+MX-0789,Andrés Morales,9.17,fl_oz,Coagulación
+MX-0790,María López,10.15,fl_oz
+MX-0791,Fernanda Lara,12.49,fl_oz,Uroanálisis
+MX-0792,Raúl Domínguez,7.75,fl_oz,Coagulación
+MX-0793,Regina Navarro,4.75,fl_oz
+MX-0794,Felipe Sandoval,372.05,ml,Microbiología
+MX-0795,Gabriela Peña,511.01,ml,Hormonas
+MX-0796,Luis Torres,7.75,fl_oz,Uroanálisis
+MX-0797,Pablo Contreras,5.68,fl_oz,Uroanálisis
+MX-0798,Catalina Guzmán,61.95,ml,Coagulación
+MX-0799,Gabriela Peña,6.92,fl_oz,Inmunología
+MX-0800,Valeria Ibarra,411.52,ml,Inmunología
+MX-0801,Tomás Medina,6.64,fl_oz,Uroanálisis
+MX-0802,Ana García,1.98,fl_oz,Serología
+MX-0803,Óscar Delgado,14.26,fl_oz,Hematología
+MX-0804,Valentina Flores,15.85,fl_oz,Hematología
+MX-0805,Ana García,15.13,fl_oz,Hematología
+MX-0806,Ricardo Mendoza,429.99,ml,Serología
+MX-0807,Óscar Delgado,459.89,ml
+MX-0808,Jorge Montes,445.18,ml,Hormonas
+MX-0809,Sofía Martínez,197.42,ZZ,Hormonas
+MX-0810,Luis Torres,206.24,ml,Coagulación
+MX-0811,Jorge Montes,485.61,ml,Química Sanguínea
+MX-0812,Diana Vázquez,394.4,ml,Hormonas
+MX-0813,Javier Cruz,0.86,fl_oz,Hormonas
+MX-0814,Alejandro Ruiz,10.74,fl_oz,Microbiología
+MX-0815,Felipe Sandoval,440.91,ml,Hematología
+MX-0816,Ricardo Mendoza,17.5,fl_oz,Microbiología
+MX-0817,Ernesto Rojas,--,fl_oz,Hematología
+MX-0818,Jimena Herrera,317.52,ml,Uroanálisis
+MX-0819,Renata Campos,4.95,fl_oz,Química Sanguínea
+MX-0820,Diana Vázquez,124.48,ml,Serología
+MX-0821,Ernesto Rojas,9.58,fl_oz,Serología
+MX-0822,Eduardo Silva,401.7,ml,Coagulación
+MX-0823,Isabella Ramírez,10.59,fl_oz,Microbiología
+MX-0824,Adriana Pacheco,1.35,fl_oz,Hematología
+MX-0825,Diego Rodríguez,224.67,ml,Microbiología
+MX-0826,Paula Vargas,6.21,fl_oz,Química Sanguínea
+MX-0827,Valeria Ibarra,0.11,fl_oz,Hematología
+MX-0828,Valeria Ibarra,39.51,ml,Uroanálisis
+MX-0829,Catalina Guzmán,565.1,ml,Coagulación
+MX-0830,Lucía Reyes,14.03,fl_oz,Uroanálisis
+MX-0831,Ernesto Rojas,19.38,fl_oz,Microbiología
+MX-0832,Pablo Contreras,235.03,ml,Coagulación
+MX-0833,Lucía Reyes,72.18,ml,Uroanálisis
+MX-0834,Andrés Morales,170.93,ml,Hormonas
+MX-0835,Manuel Estrada,67.85,ml,Hormonas
+MX-0836,Eduardo Silva,198.63,ml,Coagulación
+MX-0837,Carlos Hernández,478.24,ml,Hormonas
+MX-0838,Camila Díaz,108.09,ml,Inmunología
+MX-0839,Valeria Ibarra,15.4,fl_oz,Uroanálisis,dato_extra,85
+MX-0840,Emilio Fuentes,17.32,fl_oz,Uroanálisis
+MX-0841,Paula Vargas,10.46,fl_oz,Microbiología
+MX-0842,Regina Navarro,301.79,ml,Hormonas
+MX-0843,Andrés Morales,9.46,fl_oz,Microbiología
+MX-0844,Fernando Ortiz,6.35,fl_oz,Hormonas
+MX-0845,Ernesto Rojas,10.11,fl_oz,Hematología
+MX-0846,Tomás Medina,399.72,ml,Hormonas
+MX-0847,Natalia Guerrero,467.3,ml,Hematología
+MX-0848,Alejandro Ruiz,288.19,ml,Inmunología
+MX-0849,Jorge Montes,1.38,fl_oz,Química Sanguínea
+MX-0850,Mariana Rosas,399.45,ml,Química Sanguínea
+MX-0851,Jimena Herrera,10.51,fl_oz,Hematología
+MX-0852,Miguel Sánchez,468.94,ml,Inmunología
+MX-0853,Manuel Estrada,2.6,fl_oz,Química Sanguínea
+MX-0854,Mariana Rosas,367.16,ml,Hematología
+MX-0855,Alejandro Ruiz,364.42,ml,Uroanálisis
+MX-0856,Paula Vargas,12.47,fl_oz,Química Sanguínea
+MX-0857,Javier Cruz,8.85,fl_oz,Serología
+MX-0858,Tomás Medina,203.18,ml,Microbiología
+MX-0859,Catalina Guzmán,20.86,ml,Química Sanguínea
+MX-0860,Regina Navarro,276.17,ml,Hormonas
+MX-0861,Jimena Herrera,575.93,ml,Hematología
+MX-0862,Óscar Delgado,436.76,ml,Química Sanguínea
+MX-0863,Gabriela Peña,92.88,ml,Hormonas
+MX-0864,Sofía Martínez,523.82,ml,Hematología
+MX-0865,Ricardo Mendoza,14.04,fl_oz,Química Sanguínea
+MX-0866,Arturo Rangel,3.92,fl_oz,Química Sanguínea
+MX-0867,Camila Díaz,4.75,?,Química Sanguínea
+MX-0868,Miguel Sánchez,494.8,ml,Hematología
+MX-0869,Miguel Sánchez,160.7,ml,Serología
+MX-0870,Gabriela Peña,343.68,ml,Hematología
+MX-0871,Andrea Ríos,15.53,fl_oz,Química Sanguínea
+MX-0872,Paula Vargas,8.26,fl_oz,Hematología
+MX-0873,Regina Navarro,195.98,ml,Microbiología
+MX-0874,Lucía Reyes,540.65,ml,Coagulación
+MX-0875,Gabriela Peña,9.99,fl_oz,Hematología
+MX-0876,Renata Campos,74.45,ml,Uroanálisis
+MX-0877,Paula Vargas,16.39,fl_oz,Química Sanguínea
+MX-0878,Natalia Guerrero,14.64,fl_oz,Inmunología
+MX-0879,Natalia Guerrero,19.11,fl_oz,Coagulación
+MX-0880,Mónica Espinoza,443.41,ml,Serología
+MX-0881,Paula Vargas,5.77,fl_oz,Coagulación
+MX-0882,Natalia Guerrero,371.79,ml,Hematología
+MX-0883,Adriana Pacheco,148.72,ml,Inmunología
+MX-0884,Iván Molina,1.98,fl_oz,Serología
+MX-0885,Diego Rodríguez,281.45,ml,Química Sanguínea
+MX-0886,Adriana Pacheco,2.92,fl_oz,Microbiología
+MX-0887,Renata Campos,9.94,fl_oz,Coagulación
+MX-0888,Fernando Ortiz,158.87,ml,Uroanálisis
+MX-0889,Tomás Medina,316.36,ml,Hormonas
+MX-0890,Alejandro Ruiz,334.46,ml,Inmunología
+MX-0891,Eduardo Silva,63.81,ml,Inmunología
+MX-0892,Roberto Jiménez,145.29,ml,Hematología
+MX-0893,Sofía Martínez,74.3,ml,Inmunología
+MX-0894,Mariana Rosas,310.31,ml,Uroanálisis
+MX-0895,Fernando Ortiz,587.03,ml,Hormonas
+MX-0896,Alejandro Ruiz,327.23,ml,Química Sanguínea
+MX-0897,Andrés Morales,444.4,ml,Química Sanguínea
+MX-0898,Arturo Rangel,9.78,fl_oz,Serología
+MX-0899,Lucía Reyes,1.09,fl_oz,Inmunología
+MX-0900,Mariana Rosas,507.04,ml,Hormonas
+MX-0901,Diana Vázquez,4.84,fl_oz,Serología
+MX-0902,Fernando Ortiz,17.79,fl_oz,Uroanálisis
+MX-0903,Felipe Sandoval,305.9,ml,Serología
+MX-0904,Héctor Aguilar,7.29,fl_oz,Coagulación
+MX-0905,María López,18.69,fl_oz,Química Sanguínea
+MX-0906,Emilio Fuentes,0.75,fl_oz,Química Sanguínea
+MX-0907,Emilio Fuentes,19.71,fl_oz,Coagulación
+MX-0908,Raúl Domínguez,12.24,fl_oz,Química Sanguínea
+MX-0909,Ernesto Rojas,352.65,ml,Uroanálisis
+MX-0910,Diego Rodríguez,11.14,fl_oz,Hormonas
+MX-0911,Andrés Morales,0.12,fl_oz,Inmunología
+MX-0912,Fernando Ortiz,17.65,fl_oz,Serología
+MX-0913,Mariana Rosas,203.28,ml,Coagulación
+MX-0914,Sergio Vega,12.58,fl_oz,Hormonas
+MX-0915,Javier Cruz,error,ml,Coagulación
+MX-0916,Valentina Flores,2.01,fl_oz
+MX-0917,Fernando Ortiz,550.65,ml,Serología
+MX-0918,Daniela Castillo,15.3,fl_oz,Química Sanguínea
+
+MX-0920,Gabriela Peña,499.87,ml,Hematología
+MX-0921,Raúl Domínguez,158.62,ml,Serología
+MX-0922,Héctor Aguilar,518.2,ml,Hematología
+MX-0923,Raúl Domínguez,4.25,,Inmunología
+MX-0924,Andrés Morales,11.91,fl_oz,Inmunología
+MX-0925,Lucía Reyes,16.39,fl_oz,Hormonas
+MX-0926,Isabella Ramírez,17.44,fl_oz,Hematología
+MX-0927,Fernanda Lara,8.39,fl_oz,Inmunología
+MX-0928,Manuel Estrada,7.13,fl_oz,Hematología
+MX-0929,Carlos Hernández,13.45,ml,Microbiología
+MX-0930,Javier Cruz,3.05,fl_oz,Química Sanguínea
+MX-0931,Ricardo Mendoza,457.85,ml,Química Sanguínea
+MX-0932,Tomás Medina,168.75,ml,Uroanálisis
+MX-0933,Catalina Guzmán,4.75,fl_oz,Química Sanguínea
+MX-0934,Óscar Delgado,19.13,fl_oz,Coagulación
+MX-0935,Jorge Montes,14.14,fl_oz,Química Sanguínea
+MX-0936,Fernando Ortiz
+MX-0937,Jimena Herrera,1.71,fl_oz,Química Sanguínea
+MX-0938,Renata Campos,546.93,ml,Inmunología
+
+MX-0940,Sofía Martínez,17.64,fl_oz,Serología
+MX-0941,Felipe Sandoval,238.21,ml,Hormonas
+MX-0942,Camila Díaz,129.17,ml,Química Sanguínea
+MX-0943,Ricardo Mendoza,7.14,fl_oz,Química Sanguínea
+MX-0944,Manuel Estrada,351.76,ml,Química Sanguínea
+MX-0945,Gabriela Peña,12.13,ZZ,Hormonas
+MX-0946,Regina Navarro,13.84,fl_oz,Hematología
+MX-0947,Diana Vázquez,11.43,fl_oz,Coagulación
+MX-0948,Raúl Domínguez,10.74,fl_oz,Hematología
+MX-0949,Regina Navarro,1.7,fl_oz,Hematología
+MX-0950,Diana Vázquez,12.27,fl_oz,Hematología
+MX-0951,Camila Díaz,5.44,fl_oz,Coagulación
+MX-0952,Javier Cruz,140.49,ml,Serología
+MX-0953,Sofía Martínez,141.09,ml,Uroanálisis
+MX-0954,Ernesto Rojas,442.53,ml,Química Sanguínea
+MX-0955,Renata Campos,497.47,ml,Hormonas
+MX-0956,Jorge Montes,19.07,fl_oz,Coagulación
+MX-0957,Raúl Domínguez,5.67,fl_oz,Hematología
+MX-0958,Paula Vargas,442.51,ml,Serología
+MX-0959,Carlos Hernández,182.56,ml,Coagulación
+MX-0960,Arturo Rangel,357.49,ml,Hematología
+MX-0961,Catalina Guzmán,502.25,ml,Microbiología
+MX-0962,Ricardo Mendoza,4.97,fl_oz,Serología
+MX-0963,Gabriela Peña,13.76,fl_oz,Coagulación
+MX-0964,Ana García,366.91,ml,Hematología
+MX-0965,Roberto Jiménez,0.95,fl_oz,Hormonas
+MX-0966,Miguel Sánchez,532.85,ml,Hematología
+MX-0967,Ana García
+MX-0968,Fernando Ortiz,6.62,fl_oz,Serología
+MX-0969,Adriana Pacheco,190.09,ml,Inmunología
+MX-0970,Raúl Domínguez,16.63,fl_oz,Coagulación
+MX-0971,Carlos Hernández,427.8,ml,Serología
+MX-0972,Luis Torres,19.92,fl_oz,Microbiología
+MX-0973,Valentina Flores,18.44,fl_oz,Uroanálisis
+MX-0974,Paula Vargas,5.45,fl_oz,Uroanálisis
+MX-0975,Daniela Castillo,5.86,fl_oz,Serología
+MX-0976,Renata Campos,4.18,fl_oz,Inmunología
+MX-0977,Tomás Medina,307.11,ml,Hematología,dato_extra,53
+MX-0978,Daniela Castillo,16.03,fl_oz,Inmunología
+MX-0979,Óscar Delgado,19.87,fl_oz,Inmunología
+MX-0980,Ernesto Rojas,,fl_oz,Inmunología
+MX-0981,Arturo Rangel,15.07,fl_oz,Uroanálisis
+MX-0982,Héctor Aguilar,4.92,fl_oz,Serología
+
+MX-0984,Mónica Espinoza,393.63,ml,Inmunología
+MX-0985,Isabella Ramírez,551.12,ml,Serología
+
+MX-0987,Mariana Rosas,12.81,fl_oz,Hormonas
+MX-0988,Arturo Rangel,4.69,fl_oz,Inmunología
+MX-0989,Ricardo Mendoza,2.09,fl_oz,Hormonas
+MX-0990,Adriana Pacheco,,fl_oz,Coagulación
+MX-0991,Adriana Pacheco,273.56,ml,Coagulación
+MX-0992,Carlos Hernández,18.4,fl_oz,Uroanálisis
+MX-0993,Elena Salazar,18.97,fl_oz,Coagulación
+MX-0994,Fernanda Lara,28.66,ml,Serología
+MX-0995,Alejandro Ruiz,588.93,ml,Hormonas
+MX-0996,Camila Díaz,269.72,ml,Hematología
+MX-0997,Paula Vargas,199.94,ml,Hematología
+MX-0998,Mariana Rosas,571.29,ml,Serología
+MX-0999,Manuel Estrada,209.67,ml,Serología
+MX-1000,Raúl Domínguez,13.61,fl_oz,Hematología

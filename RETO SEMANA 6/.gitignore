@@ -1,0 +1,20 @@
+# --- Python y Jupyter Notebooks ---
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# --- Entornos Virtuales ---
+.venv/
+venv/
+ENV/
+env/
+
+# --- Archivos de salida de datos (Opcional pero recomendado) ---
+# Evita subir archivos csv grandes o temporales que generes en tus pruebas
+*.csv
+tests/salida.csv
+
+# --- Archivos del Sistema Operativo ---
+.DS_Store
+Thumbs.db

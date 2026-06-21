@@ -1,0 +1,908 @@
+id_muestra,paciente,tipo_analisis,volumen_ml,tamano_muestra
+MX-0001,Mariana Rosas,Hematología,252.0,Grande
+MX-0002,Iván Molina,Hematología,310.4,Grande
+MX-0003,Jorge Montes,Microbiología,190.3,Grande
+MX-0004,Miguel Sánchez,Inmunología,217.8,Grande
+MX-0005,Fernanda Lara,Química Sanguínea,46.5,Pequeña
+MX-0006,Carlos Hernández,Coagulación,527.3,Extra grande
+MX-0007,Fernanda Lara,Inmunología,338.4,Grande
+MX-0008,Luis Torres,Serología,289.1,Grande
+MX-0009,Mariana Rosas,Hematología,367.3,Extra grande
+MX-0011,Raúl Domínguez,Uroanálisis,21.6,Pequeña
+MX-0012,Jorge Montes,Uroanálisis,422.9,Extra grande
+MX-0013,Valeria Ibarra,Química Sanguínea,518.1,Extra grande
+MX-0014,Elena Salazar,Química Sanguínea,101.8,Mediana
+MX-0015,Ana García,Química Sanguínea,117.1,Mediana
+MX-0016,Tomás Medina,Química Sanguínea,233.9,Grande
+MX-0017,Gabriela Peña,Inmunología,24.0,Pequeña
+MX-0018,Mónica Espinoza,Uroanálisis,278.4,Grande
+MX-0019,Ricardo Mendoza,Inmunología,80.3,Mediana
+MX-0020,Alejandro Ruiz,Química Sanguínea,369.4,Extra grande
+MX-0021,Andrés Morales,Hormonas,105.3,Mediana
+MX-0022,Andrés Morales,Hormonas,234.5,Grande
+MX-0023,Óscar Delgado,Química Sanguínea,218.8,Grande
+MX-0024,Jorge Montes,Serología,314.2,Grande
+MX-0025,Carlos Hernández,Serología,375.3,Extra grande
+MX-0026,Iván Molina,Serología,478.8,Extra grande
+MX-0027,Daniela Castillo,Hormonas,542.6,Extra grande
+MX-0028,Carlos Hernández,Hematología,207.9,Grande
+MX-0029,Óscar Delgado,Hormonas,99.1,Mediana
+MX-0030,Renata Campos,Hormonas,371.4,Extra grande
+MX-0031,Andrea Ríos,Serología,415.3,Extra grande
+MX-0032,Adriana Pacheco,Hematología,145.4,Mediana
+MX-0033,Paula Vargas,Química Sanguínea,425.3,Extra grande
+MX-0034,Óscar Delgado,Coagulación,319.6,Grande
+MX-0035,Jimena Herrera,Química Sanguínea,42.0,Pequeña
+MX-0036,Elena Salazar,Hormonas,116.2,Mediana
+MX-0037,Sofía Martínez,Uroanálisis,585.3,Extra grande
+MX-0038,Óscar Delgado,Hormonas,456.9,Extra grande
+MX-0039,Tomás Medina,Inmunología,393.8,Extra grande
+MX-0040,María López,Química Sanguínea,515.3,Extra grande
+MX-0041,Javier Cruz,Uroanálisis,545.0,Extra grande
+MX-0042,Felipe Sandoval,Coagulación,219.1,Grande
+MX-0043,Felipe Sandoval,Microbiología,162.1,Grande
+MX-0044,Lorena Cervantes,Química Sanguínea,564.6,Extra grande
+MX-0045,Elena Salazar,Hematología,450.7,Extra grande
+MX-0046,Carlos Hernández,Inmunología,540.0,Extra grande
+MX-0047,Mónica Espinoza,Serología,181.9,Grande
+MX-0048,Valeria Ibarra,Hormonas,351.3,Extra grande
+MX-0049,Camila Díaz,Hematología,564.6,Extra grande
+MX-0050,Alejandro Ruiz,Uroanálisis,424.4,Extra grande
+MX-0051,Felipe Sandoval,Coagulación,255.2,Grande
+MX-0054,Daniela Castillo,Química Sanguínea,496.0,Extra grande
+MX-0056,Diego Rodríguez,Microbiología,536.1,Extra grande
+MX-0057,Elena Salazar,Hematología,47.1,Pequeña
+MX-0058,Pablo Contreras,Química Sanguínea,502.9,Extra grande
+MX-0059,Diana Vázquez,Coagulación,215.0,Grande
+MX-0060,Raúl Domínguez,Química Sanguínea,582.8,Extra grande
+MX-0061,Valeria Ibarra,Química Sanguínea,490.6,Extra grande
+MX-0062,Gabriela Peña,Microbiología,35.5,Pequeña
+MX-0063,Tomás Medina,Hormonas,425.6,Extra grande
+MX-0064,Sofía Martínez,Inmunología,236.0,Grande
+MX-0065,Jimena Herrera,Hematología,507.5,Extra grande
+MX-0066,Ana García,Química Sanguínea,340.1,Grande
+MX-0067,Manuel Estrada,Coagulación,7.1,Micro
+MX-0068,Daniela Castillo,Química Sanguínea,508.4,Extra grande
+MX-0069,Alejandro Ruiz,Uroanálisis,387.1,Extra grande
+MX-0070,Óscar Delgado,Microbiología,8.6,Micro
+MX-0071,Daniela Castillo,Coagulación,11.8,Micro
+MX-0072,Héctor Aguilar,Uroanálisis,565.8,Extra grande
+MX-0074,Alejandro Ruiz,Inmunología,16.6,Pequeña
+MX-0075,Paula Vargas,Uroanálisis,352.8,Extra grande
+MX-0076,Felipe Sandoval,Serología,312.3,Grande
+MX-0077,Tomás Medina,Hormonas,438.5,Extra grande
+MX-0079,Tomás Medina,Química Sanguínea,430.8,Extra grande
+MX-0080,Paula Vargas,Hormonas,9.8,Micro
+MX-0081,Óscar Delgado,Hematología,324.7,Grande
+MX-0082,Renata Campos,Coagulación,218.8,Grande
+MX-0083,Paula Vargas,Química Sanguínea,161.0,Grande
+MX-0084,Felipe Sandoval,Serología,464.8,Extra grande
+MX-0085,Ernesto Rojas,Coagulación,91.5,Mediana
+MX-0086,Jimena Herrera,Serología,486.2,Extra grande
+MX-0087,Ana García,Coagulación,358.8,Extra grande
+MX-0088,Pablo Contreras,Hematología,504.9,Extra grande
+MX-0089,Miguel Sánchez,Química Sanguínea,547.5,Extra grande
+MX-0090,Renata Campos,Hormonas,420.8,Extra grande
+MX-0091,Lorena Cervantes,Hormonas,422.6,Extra grande
+MX-0092,Luis Torres,Hormonas,464.3,Extra grande
+MX-0093,Ernesto Rojas,Inmunología,74.2,Mediana
+MX-0094,Manuel Estrada,Hematología,50.1,Pequeña
+MX-0095,Valeria Ibarra,Inmunología,91.2,Mediana
+MX-0096,Miguel Sánchez,Serología,461.1,Extra grande
+MX-0097,Tomás Medina,Coagulación,260.8,Grande
+MX-0098,Lucía Reyes,Microbiología,535.3,Extra grande
+MX-0099,María López,Microbiología,276.4,Grande
+MX-0100,Arturo Rangel,Hormonas,190.7,Grande
+MX-0101,Jimena Herrera,Uroanálisis,506.3,Extra grande
+MX-0102,Adriana Pacheco,Microbiología,280.4,Grande
+MX-0103,Jimena Herrera,Serología,263.6,Grande
+MX-0104,Jimena Herrera,Coagulación,500.2,Extra grande
+MX-0105,Renata Campos,Inmunología,500.3,Extra grande
+MX-0106,Valentina Flores,Inmunología,174.6,Grande
+MX-0107,María López,Microbiología,574.9,Extra grande
+MX-0108,Miguel Sánchez,Química Sanguínea,147.3,Mediana
+MX-0109,Jimena Herrera,Inmunología,450.4,Extra grande
+MX-0110,Isabella Ramírez,Coagulación,373.5,Extra grande
+MX-0112,Fernando Ortiz,Inmunología,489.9,Extra grande
+MX-0113,Alejandro Ruiz,Hormonas,425.0,Extra grande
+MX-0115,Lucía Reyes,Serología,58.6,Mediana
+MX-0116,Miguel Sánchez,Inmunología,472.6,Extra grande
+MX-0117,Carlos Hernández,Serología,19.8,Pequeña
+MX-0118,Pablo Contreras,Hematología,289.5,Grande
+MX-0119,Fernando Ortiz,Hematología,91.7,Mediana
+MX-0120,Mónica Espinoza,Coagulación,62.4,Mediana
+MX-0121,Ricardo Mendoza,Uroanálisis,171.6,Grande
+MX-0122,Jimena Herrera,Hematología,131.0,Mediana
+MX-0123,Jimena Herrera,Microbiología,599.5,Extra grande
+MX-0124,Mónica Espinoza,Química Sanguínea,493.0,Extra grande
+MX-0125,Manuel Estrada,Coagulación,115.3,Mediana
+MX-0126,Paula Vargas,Inmunología,285.7,Grande
+MX-0127,Sofía Martínez,Química Sanguínea,118.3,Mediana
+MX-0129,Alejandro Ruiz,Serología,128.3,Mediana
+MX-0130,Gabriela Peña,Inmunología,547.4,Extra grande
+MX-0133,Felipe Sandoval,Uroanálisis,19.8,Pequeña
+MX-0134,Isabella Ramírez,Química Sanguínea,100.0,Mediana
+MX-0135,Arturo Rangel,Química Sanguínea,161.6,Grande
+MX-0136,Sofía Martínez,Uroanálisis,78.1,Mediana
+MX-0137,Fernando Ortiz,Inmunología,79.1,Mediana
+MX-0138,Adriana Pacheco,Microbiología,214.7,Grande
+MX-0139,Javier Cruz,Coagulación,36.3,Pequeña
+MX-0140,Mariana Rosas,Química Sanguínea,152.6,Grande
+MX-0141,Javier Cruz,Inmunología,176.7,Grande
+MX-0143,Pablo Contreras,Química Sanguínea,292.8,Grande
+MX-0144,Carlos Hernández,Uroanálisis,409.9,Extra grande
+MX-0145,Héctor Aguilar,Serología,22.5,Pequeña
+MX-0146,Natalia Guerrero,Coagulación,253.4,Grande
+MX-0147,Emilio Fuentes,Inmunología,121.3,Mediana
+MX-0148,Diana Vázquez,Hormonas,288.9,Grande
+MX-0149,Valeria Ibarra,Microbiología,472.9,Extra grande
+MX-0150,Andrés Morales,Inmunología,467.3,Extra grande
+MX-0151,Andrea Ríos,Hormonas,321.4,Grande
+MX-0152,Paula Vargas,Microbiología,121.4,Mediana
+MX-0153,Mariana Rosas,Química Sanguínea,349.6,Extra grande
+MX-0154,Jorge Montes,Uroanálisis,572.5,Extra grande
+MX-0155,Camila Díaz,Serología,365.9,Extra grande
+MX-0156,Mariana Rosas,Coagulación,53.5,Mediana
+MX-0157,Andrés Morales,Hematología,174.8,Grande
+MX-0158,Isabella Ramírez,Coagulación,308.5,Grande
+MX-0159,Isabella Ramírez,Coagulación,125.1,Mediana
+MX-0160,Fernanda Lara,Hormonas,242.2,Grande
+MX-0161,Lorena Cervantes,Hematología,565.7,Extra grande
+MX-0162,Renata Campos,Microbiología,330.7,Grande
+MX-0163,Emilio Fuentes,Inmunología,171.8,Grande
+MX-0164,Elena Salazar,Química Sanguínea,218.7,Grande
+MX-0165,Mariana Rosas,Hormonas,383.3,Extra grande
+MX-0166,Jorge Montes,Coagulación,577.7,Extra grande
+MX-0167,Emilio Fuentes,Inmunología,467.7,Extra grande
+MX-0168,Daniela Castillo,Hematología,412.7,Extra grande
+MX-0169,Tomás Medina,Serología,496.7,Extra grande
+MX-0171,Felipe Sandoval,Microbiología,520.4,Extra grande
+MX-0172,Emilio Fuentes,Inmunología,30.5,Pequeña
+MX-0173,Iván Molina,Uroanálisis,336.3,Grande
+MX-0174,Fernando Ortiz,Microbiología,26.0,Pequeña
+MX-0175,Renata Campos,Hormonas,219.1,Grande
+MX-0176,Raúl Domínguez,Uroanálisis,80.7,Mediana
+MX-0177,Óscar Delgado,Hormonas,259.7,Grande
+MX-0178,Héctor Aguilar,Serología,206.4,Grande
+MX-0179,Alejandro Ruiz,Coagulación,580.7,Extra grande
+MX-0181,Isabella Ramírez,Microbiología,271.5,Grande
+MX-0182,Óscar Delgado,Hormonas,462.0,Extra grande
+MX-0184,Miguel Sánchez,Coagulación,74.8,Mediana
+MX-0185,Catalina Guzmán,Serología,576.6,Extra grande
+MX-0186,Elena Salazar,Serología,239.2,Grande
+MX-0187,Sofía Martínez,Coagulación,303.7,Grande
+MX-0188,Eduardo Silva,Coagulación,287.8,Grande
+MX-0189,Óscar Delgado,Hematología,225.1,Grande
+MX-0191,Héctor Aguilar,Uroanálisis,422.9,Extra grande
+MX-0192,Emilio Fuentes,Serología,69.8,Mediana
+MX-0195,Emilio Fuentes,Coagulación,420.4,Extra grande
+MX-0196,Sofía Martínez,Microbiología,569.4,Extra grande
+MX-0197,Manuel Estrada,Serología,318.1,Grande
+MX-0199,Regina Navarro,Coagulación,164.3,Grande
+MX-0200,Tomás Medina,Uroanálisis,513.8,Extra grande
+MX-0201,Carlos Hernández,Química Sanguínea,68.6,Mediana
+MX-0202,Roberto Jiménez,Hormonas,230.1,Grande
+MX-0203,Adriana Pacheco,Hematología,312.4,Grande
+MX-0204,Andrés Morales,Uroanálisis,544.9,Extra grande
+MX-0205,Javier Cruz,Serología,114.4,Mediana
+MX-0207,Arturo Rangel,Química Sanguínea,421.1,Extra grande
+MX-0208,Sergio Vega,Microbiología,347.2,Extra grande
+MX-0209,Sofía Martínez,Química Sanguínea,111.2,Mediana
+MX-0210,Miguel Sánchez,Serología,284.5,Grande
+MX-0213,Raúl Domínguez,Inmunología,136.8,Mediana
+MX-0214,Camila Díaz,Uroanálisis,96.1,Mediana
+MX-0215,Manuel Estrada,Microbiología,223.0,Grande
+MX-0216,Natalia Guerrero,Microbiología,214.3,Grande
+MX-0217,Andrea Ríos,Inmunología,218.3,Grande
+MX-0218,Paula Vargas,Coagulación,294.6,Grande
+MX-0219,Ernesto Rojas,Inmunología,81.1,Mediana
+MX-0220,Fernanda Lara,Inmunología,316.4,Grande
+MX-0221,Jimena Herrera,Serología,530.4,Extra grande
+MX-0222,Ricardo Mendoza,Coagulación,128.1,Mediana
+MX-0223,Roberto Jiménez,Coagulación,591.9,Extra grande
+MX-0224,Carlos Hernández,Hematología,88.1,Mediana
+MX-0225,Lucía Reyes,Coagulación,194.5,Grande
+MX-0226,Paula Vargas,Hematología,408.7,Extra grande
+MX-0227,Carlos Hernández,Microbiología,327.7,Grande
+MX-0228,Eduardo Silva,Hormonas,367.9,Extra grande
+MX-0229,Iván Molina,Coagulación,13.2,Micro
+MX-0230,Valeria Ibarra,Hematología,118.6,Mediana
+MX-0231,Camila Díaz,Inmunología,209.9,Grande
+MX-0232,Regina Navarro,Hormonas,494.2,Extra grande
+MX-0233,Jimena Herrera,Uroanálisis,347.0,Grande
+MX-0234,Valentina Flores,Uroanálisis,308.8,Grande
+MX-0235,Eduardo Silva,Coagulación,519.6,Extra grande
+MX-0236,Fernanda Lara,Serología,536.8,Extra grande
+MX-0237,Eduardo Silva,Hormonas,210.9,Grande
+MX-0238,Lucía Reyes,Inmunología,209.9,Grande
+MX-0239,Roberto Jiménez,Uroanálisis,524.0,Extra grande
+MX-0240,Emilio Fuentes,Uroanálisis,533.2,Extra grande
+MX-0241,Andrea Ríos,Hormonas,154.7,Grande
+MX-0242,Sergio Vega,Uroanálisis,190.4,Grande
+MX-0243,Miguel Sánchez,Hematología,190.7,Grande
+MX-0244,Elena Salazar,Hematología,113.2,Mediana
+MX-0245,Eduardo Silva,Uroanálisis,60.3,Mediana
+MX-0246,Raúl Domínguez,Química Sanguínea,331.5,Grande
+MX-0247,Valentina Flores,Hematología,230.7,Grande
+MX-0248,Diana Vázquez,Inmunología,86.8,Mediana
+MX-0249,Mónica Espinoza,Química Sanguínea,521.4,Extra grande
+MX-0250,Andrés Morales,Hematología,301.1,Grande
+MX-0251,Emilio Fuentes,Coagulación,454.5,Extra grande
+MX-0252,Catalina Guzmán,Coagulación,159.2,Grande
+MX-0253,Gabriela Peña,Coagulación,216.2,Grande
+MX-0254,Carlos Hernández,Uroanálisis,131.3,Mediana
+MX-0255,Tomás Medina,Química Sanguínea,410.5,Extra grande
+MX-0256,Arturo Rangel,Hormonas,58.6,Mediana
+MX-0257,Jimena Herrera,Química Sanguínea,470.2,Extra grande
+MX-0258,Javier Cruz,Hematología,234.9,Grande
+MX-0261,Valentina Flores,Serología,236.6,Grande
+MX-0262,Regina Navarro,Serología,566.6,Extra grande
+MX-0263,Andrés Morales,Hormonas,558.3,Extra grande
+MX-0264,Héctor Aguilar,Hematología,386.0,Extra grande
+MX-0265,Mariana Rosas,Hematología,417.3,Extra grande
+MX-0266,Catalina Guzmán,Microbiología,144.3,Mediana
+MX-0267,Andrés Morales,Uroanálisis,338.3,Grande
+MX-0269,Gabriela Peña,Hematología,86.4,Mediana
+MX-0270,Mariana Rosas,Microbiología,277.1,Grande
+MX-0271,Carlos Hernández,Hematología,472.4,Extra grande
+MX-0272,Paula Vargas,Hormonas,394.4,Extra grande
+MX-0273,Ricardo Mendoza,Microbiología,520.5,Extra grande
+MX-0275,Mariana Rosas,Serología,284.2,Grande
+MX-0276,Sergio Vega,Microbiología,162.7,Grande
+MX-0277,Felipe Sandoval,Hormonas,166.9,Grande
+MX-0278,Raúl Domínguez,Serología,427.6,Extra grande
+MX-0279,Tomás Medina,Hormonas,272.1,Grande
+MX-0280,Óscar Delgado,Inmunología,431.5,Extra grande
+MX-0282,Paula Vargas,Microbiología,17.2,Pequeña
+MX-0283,Isabella Ramírez,Uroanálisis,320.6,Grande
+MX-0284,Miguel Sánchez,Uroanálisis,296.0,Grande
+MX-0285,María López,Hormonas,308.5,Grande
+MX-0286,Iván Molina,Hematología,152.6,Grande
+MX-0287,Manuel Estrada,Química Sanguínea,351.6,Extra grande
+MX-0288,Ernesto Rojas,Química Sanguínea,444.8,Extra grande
+MX-0289,Javier Cruz,Microbiología,362.6,Extra grande
+MX-0290,Mónica Espinoza,Uroanálisis,26.6,Pequeña
+MX-0291,Lorena Cervantes,Microbiología,87.2,Mediana
+MX-0292,Raúl Domínguez,Hematología,592.2,Extra grande
+MX-0293,Ana García,Química Sanguínea,530.5,Extra grande
+MX-0294,Carlos Hernández,Serología,36.3,Pequeña
+MX-0295,Andrés Morales,Serología,265.9,Grande
+MX-0296,Alejandro Ruiz,Química Sanguínea,346.4,Grande
+MX-0297,Alejandro Ruiz,Uroanálisis,404.6,Extra grande
+MX-0298,Isabella Ramírez,Uroanálisis,280.0,Grande
+MX-0299,Valentina Flores,Serología,378.2,Extra grande
+MX-0300,Roberto Jiménez,Microbiología,104.4,Mediana
+MX-0301,Miguel Sánchez,Coagulación,41.4,Pequeña
+MX-0302,Arturo Rangel,Hormonas,305.4,Grande
+MX-0303,Luis Torres,Uroanálisis,440.6,Extra grande
+MX-0304,Mariana Rosas,Coagulación,436.5,Extra grande
+MX-0305,Mónica Espinoza,Serología,340.7,Grande
+MX-0306,Isabella Ramírez,Coagulación,44.3,Pequeña
+MX-0307,Daniela Castillo,Hematología,244.3,Grande
+MX-0308,Camila Díaz,Uroanálisis,551.5,Extra grande
+MX-0309,Alejandro Ruiz,Microbiología,213.5,Grande
+MX-0310,Felipe Sandoval,Microbiología,430.0,Extra grande
+MX-0311,Diana Vázquez,Hormonas,321.2,Grande
+MX-0312,Adriana Pacheco,Coagulación,266.5,Grande
+MX-0313,Óscar Delgado,Inmunología,246.1,Grande
+MX-0314,Fernanda Lara,Microbiología,204.9,Grande
+MX-0315,Valentina Flores,Química Sanguínea,596.9,Extra grande
+MX-0316,Javier Cruz,Serología,575.0,Extra grande
+MX-0317,Ernesto Rojas,Hormonas,386.9,Extra grande
+MX-0318,Gabriela Peña,Coagulación,27.9,Pequeña
+MX-0319,Mónica Espinoza,Uroanálisis,88.7,Mediana
+MX-0320,Mónica Espinoza,Inmunología,424.5,Extra grande
+MX-0321,Miguel Sánchez,Inmunología,403.0,Extra grande
+MX-0322,Regina Navarro,Inmunología,436.2,Extra grande
+MX-0324,Fernando Ortiz,Uroanálisis,217.4,Grande
+MX-0325,Sergio Vega,Serología,191.8,Grande
+MX-0326,Valeria Ibarra,Hematología,44.1,Pequeña
+MX-0327,Ernesto Rojas,Hematología,432.3,Extra grande
+MX-0328,Alejandro Ruiz,Inmunología,93.2,Mediana
+MX-0329,Paula Vargas,Coagulación,234.4,Grande
+MX-0330,Andrés Morales,Hormonas,261.7,Grande
+MX-0331,Arturo Rangel,Hormonas,70.7,Mediana
+MX-0332,Regina Navarro,Coagulación,342.2,Grande
+MX-0333,Javier Cruz,Hormonas,592.9,Extra grande
+MX-0334,Valeria Ibarra,Hormonas,69.2,Mediana
+MX-0335,Sofía Martínez,Uroanálisis,466.1,Extra grande
+MX-0336,Miguel Sánchez,Serología,34.6,Pequeña
+MX-0338,Eduardo Silva,Hormonas,37.3,Pequeña
+MX-0339,Andrea Ríos,Uroanálisis,133.0,Mediana
+MX-0340,Paula Vargas,Uroanálisis,21.3,Pequeña
+MX-0341,Iván Molina,Coagulación,533.9,Extra grande
+MX-0342,Valentina Flores,Inmunología,360.5,Extra grande
+MX-0343,Isabella Ramírez,Coagulación,564.3,Extra grande
+MX-0344,Elena Salazar,Uroanálisis,342.4,Grande
+MX-0345,Ana García,Coagulación,128.9,Mediana
+MX-0346,Tomás Medina,Coagulación,204.4,Grande
+MX-0348,Luis Torres,Inmunología,254.2,Grande
+MX-0349,Elena Salazar,Uroanálisis,385.3,Extra grande
+MX-0350,Daniela Castillo,Coagulación,23.1,Pequeña
+MX-0351,Valeria Ibarra,Hematología,225.9,Grande
+MX-0352,Pablo Contreras,Química Sanguínea,291.0,Grande
+MX-0353,Sofía Martínez,Química Sanguínea,532.4,Extra grande
+MX-0354,Fernanda Lara,Inmunología,391.4,Extra grande
+MX-0355,Isabella Ramírez,Inmunología,201.4,Grande
+MX-0356,Mariana Rosas,Química Sanguínea,146.7,Mediana
+MX-0357,Gabriela Peña,Uroanálisis,284.5,Grande
+MX-0358,Gabriela Peña,Química Sanguínea,144.3,Mediana
+MX-0359,Diego Rodríguez,Serología,128.3,Mediana
+MX-0361,Héctor Aguilar,Uroanálisis,591.7,Extra grande
+MX-0362,Andrés Morales,Serología,245.3,Grande
+MX-0364,Valentina Flores,Coagulación,539.1,Extra grande
+MX-0365,Miguel Sánchez,Microbiología,303.0,Grande
+MX-0366,Andrea Ríos,Hormonas,434.3,Extra grande
+MX-0367,Sergio Vega,Uroanálisis,239.5,Grande
+MX-0369,Daniela Castillo,Hematología,237.6,Grande
+MX-0370,Ernesto Rojas,Hematología,18.0,Pequeña
+MX-0372,Arturo Rangel,Química Sanguínea,152.6,Grande
+MX-0373,Valeria Ibarra,Inmunología,542.9,Extra grande
+MX-0374,Valentina Flores,Microbiología,344.5,Grande
+MX-0375,Andrés Morales,Inmunología,66.8,Mediana
+MX-0376,Regina Navarro,Hematología,48.1,Pequeña
+MX-0377,Gabriela Peña,Hormonas,172.9,Grande
+MX-0378,Raúl Domínguez,Química Sanguínea,205.0,Grande
+MX-0379,Lucía Reyes,Uroanálisis,515.2,Extra grande
+MX-0381,Andrea Ríos,Coagulación,56.5,Mediana
+MX-0382,Fernando Ortiz,Microbiología,437.1,Extra grande
+MX-0383,Felipe Sandoval,Química Sanguínea,538.1,Extra grande
+MX-0384,Ricardo Mendoza,Coagulación,544.2,Extra grande
+MX-0385,Renata Campos,Serología,212.3,Grande
+MX-0386,Pablo Contreras,Hematología,570.5,Extra grande
+MX-0387,Fernando Ortiz,Microbiología,397.2,Extra grande
+MX-0388,Luis Torres,Uroanálisis,492.4,Extra grande
+MX-0389,Sofía Martínez,Coagulación,125.1,Mediana
+MX-0390,Ernesto Rojas,Hematología,457.8,Extra grande
+MX-0391,Valeria Ibarra,Hormonas,519.9,Extra grande
+MX-0392,Lucía Reyes,Hormonas,316.6,Grande
+MX-0393,Pablo Contreras,Inmunología,239.2,Grande
+MX-0394,Regina Navarro,Hematología,101.1,Mediana
+MX-0395,Mariana Rosas,Microbiología,298.1,Grande
+MX-0396,Ricardo Mendoza,Microbiología,574.3,Extra grande
+MX-0397,Mariana Rosas,Inmunología,484.1,Extra grande
+MX-0398,Roberto Jiménez,Inmunología,225.2,Grande
+MX-0399,Valeria Ibarra,Coagulación,72.8,Mediana
+MX-0400,Jimena Herrera,Uroanálisis,563.7,Extra grande
+MX-0401,Valeria Ibarra,Coagulación,578.8,Extra grande
+MX-0402,Ricardo Mendoza,Química Sanguínea,462.8,Extra grande
+MX-0403,Luis Torres,Microbiología,27.9,Pequeña
+MX-0404,Lucía Reyes,Serología,89.7,Mediana
+MX-0405,Ricardo Mendoza,Química Sanguínea,405.2,Extra grande
+MX-0406,Lorena Cervantes,Serología,579.0,Extra grande
+MX-0407,Valentina Flores,Serología,503.6,Extra grande
+MX-0409,Óscar Delgado,Inmunología,537.9,Extra grande
+MX-0411,Ernesto Rojas,Hematología,592.0,Extra grande
+MX-0412,Ana García,Hematología,337.4,Grande
+MX-0413,Miguel Sánchez,Hormonas,191.9,Grande
+MX-0414,Diego Rodríguez,Inmunología,77.8,Mediana
+MX-0415,Ana García,Hormonas,405.2,Extra grande
+MX-0416,Emilio Fuentes,Coagulación,581.7,Extra grande
+MX-0417,Lucía Reyes,Coagulación,280.1,Grande
+MX-0418,Diana Vázquez,Coagulación,596.9,Extra grande
+MX-0419,Daniela Castillo,Hormonas,165.0,Grande
+MX-0420,Lucía Reyes,Química Sanguínea,409.1,Extra grande
+MX-0421,Pablo Contreras,Coagulación,35.5,Pequeña
+MX-0422,Paula Vargas,Coagulación,325.8,Grande
+MX-0423,Mariana Rosas,Inmunología,120.4,Mediana
+MX-0424,Ana García,Hormonas,125.4,Mediana
+MX-0425,Felipe Sandoval,Hematología,599.2,Extra grande
+MX-0427,Mariana Rosas,Uroanálisis,123.9,Mediana
+MX-0428,Luis Torres,Serología,332.0,Grande
+MX-0429,Mariana Rosas,Química Sanguínea,116.8,Mediana
+MX-0430,Tomás Medina,Coagulación,326.9,Grande
+MX-0431,Fernando Ortiz,Hormonas,337.3,Grande
+MX-0432,Valentina Flores,Coagulación,61.0,Mediana
+MX-0433,Ana García,Serología,477.3,Extra grande
+MX-0434,Alejandro Ruiz,Inmunología,322.5,Grande
+MX-0435,Renata Campos,Inmunología,317.6,Grande
+MX-0436,Raúl Domínguez,Microbiología,576.2,Extra grande
+MX-0437,Catalina Guzmán,Inmunología,67.1,Mediana
+MX-0438,Adriana Pacheco,Microbiología,55.0,Mediana
+MX-0439,Manuel Estrada,Hematología,50.5,Pequeña
+MX-0440,Valeria Ibarra,Microbiología,165.2,Grande
+MX-0442,Camila Díaz,Hematología,77.5,Mediana
+MX-0443,Miguel Sánchez,Microbiología,435.0,Extra grande
+MX-0444,Ana García,Microbiología,30.7,Pequeña
+MX-0445,Tomás Medina,Uroanálisis,440.0,Extra grande
+MX-0446,Carlos Hernández,Coagulación,5.4,Micro
+MX-0447,Jorge Montes,Química Sanguínea,9.3,Micro
+MX-0448,Miguel Sánchez,Química Sanguínea,133.4,Mediana
+MX-0450,Natalia Guerrero,Inmunología,227.1,Grande
+MX-0451,Luis Torres,Serología,102.9,Mediana
+MX-0452,Luis Torres,Inmunología,168.5,Grande
+MX-0453,Paula Vargas,Uroanálisis,138.7,Mediana
+MX-0455,Eduardo Silva,Coagulación,137.8,Mediana
+MX-0456,Raúl Domínguez,Coagulación,261.4,Grande
+MX-0457,Valeria Ibarra,Hormonas,528.8,Extra grande
+MX-0458,Mónica Espinoza,Inmunología,338.4,Grande
+MX-0459,Eduardo Silva,Hormonas,545.9,Extra grande
+MX-0460,Pablo Contreras,Serología,324.1,Grande
+MX-0461,Lorena Cervantes,Microbiología,318.7,Grande
+MX-0462,Ana García,Microbiología,311.2,Grande
+MX-0463,Andrés Morales,Coagulación,371.1,Extra grande
+MX-0464,Camila Díaz,Hematología,254.9,Grande
+MX-0465,Javier Cruz,Inmunología,14.8,Pequeña
+MX-0466,Diego Rodríguez,Inmunología,356.1,Extra grande
+MX-0467,Renata Campos,Coagulación,26.9,Pequeña
+MX-0468,Javier Cruz,Microbiología,136.9,Mediana
+MX-0469,Valeria Ibarra,Inmunología,351.6,Extra grande
+MX-0470,Felipe Sandoval,Serología,100.0,Mediana
+MX-0471,Felipe Sandoval,Hormonas,326.2,Grande
+MX-0472,Andrés Morales,Coagulación,261.7,Grande
+MX-0473,Catalina Guzmán,Hormonas,84.2,Mediana
+MX-0474,Pablo Contreras,Hematología,127.5,Mediana
+MX-0475,Fernanda Lara,Serología,518.1,Extra grande
+MX-0476,Mariana Rosas,Microbiología,221.2,Grande
+MX-0477,Iván Molina,Inmunología,305.5,Grande
+MX-0478,Gabriela Peña,Hormonas,135.6,Mediana
+MX-0480,Fernando Ortiz,Uroanálisis,175.4,Grande
+MX-0481,Natalia Guerrero,Química Sanguínea,508.7,Extra grande
+MX-0482,Andrés Morales,Hormonas,502.4,Extra grande
+MX-0483,Gabriela Peña,Uroanálisis,412.0,Extra grande
+MX-0484,Natalia Guerrero,Hematología,524.2,Extra grande
+MX-0485,Javier Cruz,Hormonas,559.5,Extra grande
+MX-0486,Emilio Fuentes,Microbiología,552.7,Extra grande
+MX-0487,Andrés Morales,Hematología,510.9,Extra grande
+MX-0488,Ernesto Rojas,Química Sanguínea,161.8,Grande
+MX-0489,Andrea Ríos,Hormonas,542.1,Extra grande
+MX-0491,María López,Química Sanguínea,453.7,Extra grande
+MX-0492,Manuel Estrada,Uroanálisis,290.5,Grande
+MX-0493,Renata Campos,Serología,468.4,Extra grande
+MX-0494,Pablo Contreras,Coagulación,469.1,Extra grande
+MX-0495,Elena Salazar,Química Sanguínea,307.5,Grande
+MX-0496,Sofía Martínez,Hormonas,519.3,Extra grande
+MX-0497,Renata Campos,Uroanálisis,585.6,Extra grande
+MX-0498,Diego Rodríguez,Inmunología,348.1,Extra grande
+MX-0499,Diana Vázquez,Inmunología,51.0,Mediana
+MX-0501,Ana García,Uroanálisis,434.4,Extra grande
+MX-0502,Lorena Cervantes,Hormonas,220.9,Grande
+MX-0503,Lorena Cervantes,Uroanálisis,80.9,Mediana
+MX-0504,Tomás Medina,Hematología,312.9,Grande
+MX-0505,Lucía Reyes,Química Sanguínea,537.9,Extra grande
+MX-0506,Héctor Aguilar,Inmunología,373.5,Extra grande
+MX-0507,Isabella Ramírez,Inmunología,75.5,Mediana
+MX-0508,Fernanda Lara,Hormonas,364.5,Extra grande
+MX-0509,Valentina Flores,Coagulación,589.7,Extra grande
+MX-0510,Gabriela Peña,Inmunología,191.6,Grande
+MX-0511,Jimena Herrera,Hormonas,584.4,Extra grande
+MX-0513,Jorge Montes,Serología,459.0,Extra grande
+MX-0514,Gabriela Peña,Coagulación,52.3,Mediana
+MX-0515,Mónica Espinoza,Química Sanguínea,584.7,Extra grande
+MX-0516,Emilio Fuentes,Coagulación,264.8,Grande
+MX-0517,Ana García,Hematología,413.1,Extra grande
+MX-0518,Daniela Castillo,Hormonas,35.3,Pequeña
+MX-0519,Luis Torres,Coagulación,414.1,Extra grande
+MX-0520,Sergio Vega,Hematología,43.2,Pequeña
+MX-0521,Camila Díaz,Uroanálisis,89.6,Mediana
+MX-0522,Eduardo Silva,Uroanálisis,24.6,Pequeña
+MX-0523,Valeria Ibarra,Coagulación,115.9,Mediana
+MX-0524,Natalia Guerrero,Inmunología,338.0,Grande
+MX-0525,Tomás Medina,Coagulación,573.4,Extra grande
+MX-0526,Andrea Ríos,Inmunología,546.8,Extra grande
+MX-0527,Adriana Pacheco,Hematología,406.3,Extra grande
+MX-0528,Raúl Domínguez,Química Sanguínea,106.5,Mediana
+MX-0529,Héctor Aguilar,Inmunología,87.5,Mediana
+MX-0530,Felipe Sandoval,Serología,321.6,Grande
+MX-0531,Paula Vargas,Inmunología,184.5,Grande
+MX-0532,Andrea Ríos,Uroanálisis,202.3,Grande
+MX-0533,Carlos Hernández,Química Sanguínea,244.9,Grande
+MX-0534,Manuel Estrada,Hormonas,114.7,Mediana
+MX-0535,Eduardo Silva,Coagulación,292.2,Grande
+MX-0536,Catalina Guzmán,Hormonas,266.6,Grande
+MX-0537,Ernesto Rojas,Hormonas,169.3,Grande
+MX-0538,Diego Rodríguez,Hormonas,166.9,Grande
+MX-0539,Daniela Castillo,Inmunología,332.7,Grande
+MX-0540,Lucía Reyes,Química Sanguínea,171.1,Grande
+MX-0541,Valentina Flores,Serología,578.5,Extra grande
+MX-0542,Manuel Estrada,Química Sanguínea,65.2,Mediana
+MX-0543,Pablo Contreras,Química Sanguínea,335.7,Grande
+MX-0545,Catalina Guzmán,Microbiología,369.2,Extra grande
+MX-0546,Mónica Espinoza,Hormonas,550.7,Extra grande
+MX-0547,Jimena Herrera,Uroanálisis,203.8,Grande
+MX-0549,Ernesto Rojas,Química Sanguínea,254.3,Grande
+MX-0550,Iván Molina,Inmunología,360.3,Extra grande
+MX-0551,Camila Díaz,Hematología,214.4,Grande
+MX-0552,Elena Salazar,Microbiología,79.8,Mediana
+MX-0554,Valeria Ibarra,Microbiología,417.6,Extra grande
+MX-0555,Mariana Rosas,Hormonas,419.6,Extra grande
+MX-0556,Diana Vázquez,Inmunología,538.2,Extra grande
+MX-0557,Camila Díaz,Química Sanguínea,588.8,Extra grande
+MX-0558,Ana García,Química Sanguínea,514.3,Extra grande
+MX-0560,Valentina Flores,Serología,183.4,Grande
+MX-0561,Luis Torres,Microbiología,180.1,Grande
+MX-0562,Fernanda Lara,Química Sanguínea,446.6,Extra grande
+MX-0563,Mónica Espinoza,Serología,410.6,Extra grande
+MX-0564,Javier Cruz,Microbiología,68.7,Mediana
+MX-0565,Javier Cruz,Hormonas,28.4,Pequeña
+MX-0566,Daniela Castillo,Hormonas,542.7,Extra grande
+MX-0567,Lucía Reyes,Hormonas,459.7,Extra grande
+MX-0568,Andrea Ríos,Microbiología,501.2,Extra grande
+MX-0569,Jimena Herrera,Microbiología,192.7,Grande
+MX-0571,Felipe Sandoval,Coagulación,335.2,Grande
+MX-0572,Alejandro Ruiz,Uroanálisis,388.2,Extra grande
+MX-0573,Ana García,Uroanálisis,248.7,Grande
+MX-0574,Alejandro Ruiz,Coagulación,299.3,Grande
+MX-0575,Eduardo Silva,Hematología,71.0,Mediana
+MX-0576,Mónica Espinoza,Inmunología,506.9,Extra grande
+MX-0577,Raúl Domínguez,Inmunología,75.4,Mediana
+MX-0578,Ricardo Mendoza,Química Sanguínea,33.4,Pequeña
+MX-0579,Camila Díaz,Uroanálisis,41.7,Pequeña
+MX-0580,Renata Campos,Uroanálisis,87.8,Mediana
+MX-0581,Ricardo Mendoza,Química Sanguínea,132.9,Mediana
+MX-0582,Adriana Pacheco,Uroanálisis,519.9,Extra grande
+MX-0583,Valeria Ibarra,Inmunología,309.9,Grande
+MX-0584,Lucía Reyes,Coagulación,515.1,Extra grande
+MX-0585,Héctor Aguilar,Hormonas,51.8,Mediana
+MX-0586,Jimena Herrera,Química Sanguínea,356.4,Extra grande
+MX-0587,Ana García,Química Sanguínea,401.4,Extra grande
+MX-0588,Andrés Morales,Química Sanguínea,40.2,Pequeña
+MX-0589,Felipe Sandoval,Coagulación,270.6,Grande
+MX-0591,Mariana Rosas,Microbiología,446.0,Extra grande
+MX-0592,Miguel Sánchez,Hematología,411.4,Extra grande
+MX-0593,Ernesto Rojas,Coagulación,63.6,Mediana
+MX-0594,Iván Molina,Microbiología,187.6,Grande
+MX-0595,Manuel Estrada,Coagulación,281.3,Grande
+MX-0596,Luis Torres,Uroanálisis,25.6,Pequeña
+MX-0597,Gabriela Peña,Serología,44.7,Pequeña
+MX-0598,Roberto Jiménez,Química Sanguínea,412.6,Extra grande
+MX-0599,Tomás Medina,Hormonas,54.0,Mediana
+MX-0600,Ricardo Mendoza,Química Sanguínea,435.0,Extra grande
+MX-0601,Roberto Jiménez,Química Sanguínea,192.4,Grande
+MX-0602,Lucía Reyes,Hematología,565.2,Extra grande
+MX-0603,Luis Torres,Uroanálisis,63.3,Mediana
+MX-0604,Pablo Contreras,Uroanálisis,342.1,Grande
+MX-0605,Jorge Montes,Química Sanguínea,95.8,Mediana
+MX-0606,Jimena Herrera,Hormonas,193.4,Grande
+MX-0607,Valeria Ibarra,Microbiología,207.6,Grande
+MX-0608,Ana García,Química Sanguínea,134.0,Mediana
+MX-0609,María López,Uroanálisis,158.0,Grande
+MX-0610,Pablo Contreras,Serología,217.2,Grande
+MX-0611,Javier Cruz,Uroanálisis,113.5,Mediana
+MX-0612,Miguel Sánchez,Inmunología,533.7,Extra grande
+MX-0613,Mariana Rosas,Serología,237.2,Grande
+MX-0615,Diana Vázquez,Inmunología,498.0,Extra grande
+MX-0616,Pablo Contreras,Hematología,123.6,Mediana
+MX-0617,Mónica Espinoza,Hormonas,467.6,Extra grande
+MX-0618,Luis Torres,Hormonas,191.1,Grande
+MX-0619,Camila Díaz,Hormonas,9.5,Micro
+MX-0620,Diego Rodríguez,Coagulación,308.8,Grande
+MX-0621,Andrea Ríos,Serología,172.6,Grande
+MX-0622,Mariana Rosas,Uroanálisis,150.5,Grande
+MX-0623,Mónica Espinoza,Química Sanguínea,595.7,Extra grande
+MX-0624,Elena Salazar,Hematología,168.0,Grande
+MX-0625,Natalia Guerrero,Serología,97.6,Mediana
+MX-0626,Daniela Castillo,Hormonas,125.7,Mediana
+MX-0627,Héctor Aguilar,Uroanálisis,40.0,Pequeña
+MX-0630,Miguel Sánchez,Microbiología,552.3,Extra grande
+MX-0632,Jimena Herrera,Uroanálisis,184.3,Grande
+MX-0633,Miguel Sánchez,Inmunología,6.9,Micro
+MX-0634,Paula Vargas,Serología,469.0,Extra grande
+MX-0635,Felipe Sandoval,Hormonas,14.6,Pequeña
+MX-0636,Catalina Guzmán,Hormonas,23.1,Pequeña
+MX-0637,Renata Campos,Inmunología,476.7,Extra grande
+MX-0638,Diego Rodríguez,Microbiología,39.9,Pequeña
+MX-0639,Diego Rodríguez,Hormonas,116.8,Mediana
+MX-0640,Regina Navarro,Microbiología,320.4,Grande
+MX-0641,Felipe Sandoval,Hematología,534.4,Extra grande
+MX-0642,Ricardo Mendoza,Hematología,166.5,Grande
+MX-0643,Carlos Hernández,Serología,353.3,Extra grande
+MX-0644,Emilio Fuentes,Inmunología,506.0,Extra grande
+MX-0647,Carlos Hernández,Hematología,26.9,Pequeña
+MX-0648,Iván Molina,Uroanálisis,529.5,Extra grande
+MX-0649,Jimena Herrera,Hematología,358.1,Extra grande
+MX-0652,Jorge Montes,Serología,307.3,Grande
+MX-0654,Arturo Rangel,Coagulación,154.8,Grande
+MX-0655,Jimena Herrera,Uroanálisis,134.8,Mediana
+MX-0656,Regina Navarro,Hormonas,201.2,Grande
+MX-0657,Arturo Rangel,Hormonas,391.0,Extra grande
+MX-0658,Óscar Delgado,Microbiología,278.7,Grande
+MX-0659,Carlos Hernández,Inmunología,428.8,Extra grande
+MX-0660,Manuel Estrada,Hematología,578.8,Extra grande
+MX-0661,Natalia Guerrero,Química Sanguínea,45.8,Pequeña
+MX-0662,Gabriela Peña,Coagulación,474.1,Extra grande
+MX-0663,Felipe Sandoval,Inmunología,82.8,Mediana
+MX-0664,Jorge Montes,Coagulación,527.6,Extra grande
+MX-0665,María López,Química Sanguínea,242.2,Grande
+MX-0666,Isabella Ramírez,Hormonas,564.0,Extra grande
+MX-0667,Isabella Ramírez,Inmunología,269.1,Grande
+MX-0668,Mariana Rosas,Uroanálisis,429.4,Extra grande
+MX-0669,Diana Vázquez,Serología,419.2,Extra grande
+MX-0670,Daniela Castillo,Hematología,186.3,Grande
+MX-0671,Roberto Jiménez,Coagulación,508.1,Extra grande
+MX-0672,Valeria Ibarra,Hematología,413.4,Extra grande
+MX-0673,Héctor Aguilar,Química Sanguínea,149.2,Mediana
+MX-0674,Andrea Ríos,Hematología,142.7,Mediana
+MX-0675,Ana García,Hematología,185.4,Grande
+MX-0676,Jimena Herrera,Química Sanguínea,571.7,Extra grande
+MX-0677,Felipe Sandoval,Inmunología,200.1,Grande
+MX-0678,Gabriela Peña,Uroanálisis,494.0,Extra grande
+MX-0679,Tomás Medina,Serología,583.7,Extra grande
+MX-0681,Lorena Cervantes,Química Sanguínea,565.5,Extra grande
+MX-0682,Miguel Sánchez,Microbiología,592.6,Extra grande
+MX-0683,Lucía Reyes,Uroanálisis,594.6,Extra grande
+MX-0684,Miguel Sánchez,Serología,381.6,Extra grande
+MX-0685,Héctor Aguilar,Hematología,185.1,Grande
+MX-0686,Lorena Cervantes,Hematología,364.6,Extra grande
+MX-0687,Diego Rodríguez,Coagulación,130.7,Mediana
+MX-0689,Andrés Morales,Coagulación,209.3,Grande
+MX-0690,Adriana Pacheco,Inmunología,10.1,Micro
+MX-0691,Regina Navarro,Coagulación,413.7,Extra grande
+MX-0692,Diego Rodríguez,Hormonas,475.4,Extra grande
+MX-0694,Jimena Herrera,Microbiología,596.0,Extra grande
+MX-0695,Andrea Ríos,Coagulación,500.9,Extra grande
+MX-0696,Isabella Ramírez,Hematología,5.9,Micro
+MX-0697,Catalina Guzmán,Inmunología,458.9,Extra grande
+MX-0698,Jimena Herrera,Uroanálisis,289.6,Grande
+MX-0699,Isabella Ramírez,Hematología,101.8,Mediana
+MX-0700,Emilio Fuentes,Microbiología,378.2,Extra grande
+MX-0701,Pablo Contreras,Uroanálisis,47.7,Pequeña
+MX-0702,Pablo Contreras,Hormonas,177.3,Grande
+MX-0704,Fernando Ortiz,Coagulación,276.2,Grande
+MX-0705,Jimena Herrera,Inmunología,398.4,Extra grande
+MX-0706,Óscar Delgado,Química Sanguínea,518.4,Extra grande
+MX-0707,Ricardo Mendoza,Hematología,137.0,Mediana
+MX-0708,Lorena Cervantes,Química Sanguínea,422.6,Extra grande
+MX-0709,Ernesto Rojas,Hormonas,120.4,Mediana
+MX-0710,Valeria Ibarra,Hematología,214.7,Grande
+MX-0711,Renata Campos,Química Sanguínea,360.5,Extra grande
+MX-0713,Manuel Estrada,Hormonas,136.5,Mediana
+MX-0714,Tomás Medina,Uroanálisis,541.2,Extra grande
+MX-0716,Roberto Jiménez,Uroanálisis,23.7,Pequeña
+MX-0717,Paula Vargas,Inmunología,337.8,Grande
+MX-0718,Lorena Cervantes,Coagulación,133.4,Mediana
+MX-0719,Jorge Montes,Microbiología,182.8,Grande
+MX-0720,Manuel Estrada,Inmunología,373.7,Extra grande
+MX-0721,Valeria Ibarra,Hematología,153.8,Grande
+MX-0722,María López,Uroanálisis,440.5,Extra grande
+MX-0723,Raúl Domínguez,Inmunología,259.7,Grande
+MX-0724,Isabella Ramírez,Serología,592.6,Extra grande
+MX-0725,Paula Vargas,Hematología,590.3,Extra grande
+MX-0727,Lucía Reyes,Química Sanguínea,45.3,Pequeña
+MX-0728,Elena Salazar,Hematología,85.0,Mediana
+MX-0729,Andrea Ríos,Inmunología,155.0,Grande
+MX-0730,Carlos Hernández,Inmunología,417.5,Extra grande
+MX-0731,Tomás Medina,Inmunología,320.9,Grande
+MX-0733,Diana Vázquez,Uroanálisis,440.5,Extra grande
+MX-0734,Andrea Ríos,Química Sanguínea,440.4,Extra grande
+MX-0735,Adriana Pacheco,Química Sanguínea,355.7,Extra grande
+MX-0736,Arturo Rangel,Hematología,199.3,Grande
+MX-0737,Alejandro Ruiz,Inmunología,88.1,Mediana
+MX-0738,Lucía Reyes,Inmunología,419.6,Extra grande
+MX-0740,Ernesto Rojas,Química Sanguínea,59.4,Mediana
+MX-0741,Raúl Domínguez,Serología,555.4,Extra grande
+MX-0742,Elena Salazar,Serología,128.0,Mediana
+MX-0743,Natalia Guerrero,Coagulación,241.3,Grande
+MX-0744,Mariana Rosas,Inmunología,249.8,Grande
+MX-0745,Natalia Guerrero,Hematología,522.7,Extra grande
+MX-0746,Paula Vargas,Serología,557.0,Extra grande
+MX-0747,Ana García,Microbiología,95.8,Mediana
+MX-0748,Felipe Sandoval,Coagulación,18.6,Pequeña
+MX-0749,Catalina Guzmán,Hematología,117.4,Mediana
+MX-0751,Jorge Montes,Coagulación,538.5,Extra grande
+MX-0752,Fernanda Lara,Hematología,254.0,Grande
+MX-0753,Diana Vázquez,Uroanálisis,192.6,Grande
+MX-0754,Emilio Fuentes,Hormonas,100.0,Mediana
+MX-0756,Jimena Herrera,Hormonas,347.7,Extra grande
+MX-0757,Emilio Fuentes,Coagulación,183.7,Grande
+MX-0758,Daniela Castillo,Coagulación,593.8,Extra grande
+MX-0759,Ernesto Rojas,Hematología,459.3,Extra grande
+MX-0760,María López,Inmunología,245.2,Grande
+MX-0761,Adriana Pacheco,Uroanálisis,216.4,Grande
+MX-0762,Sergio Vega,Coagulación,466.8,Extra grande
+MX-0763,Raúl Domínguez,Hormonas,54.1,Mediana
+MX-0764,Sergio Vega,Hematología,581.1,Extra grande
+MX-0765,Renata Campos,Coagulación,123.9,Mediana
+MX-0767,Lorena Cervantes,Inmunología,343.1,Grande
+MX-0768,Diego Rodríguez,Química Sanguínea,528.0,Extra grande
+MX-0769,Manuel Estrada,Microbiología,389.4,Extra grande
+MX-0770,Daniela Castillo,Uroanálisis,187.8,Grande
+MX-0771,Lorena Cervantes,Inmunología,214.4,Grande
+MX-0772,Fernanda Lara,Hormonas,393.7,Extra grande
+MX-0774,Jimena Herrera,Serología,165.6,Grande
+MX-0775,Andrea Ríos,Serología,418.2,Extra grande
+MX-0776,Carlos Hernández,Uroanálisis,471.2,Extra grande
+MX-0777,Renata Campos,Química Sanguínea,44.4,Pequeña
+MX-0778,Adriana Pacheco,Microbiología,232.7,Grande
+MX-0779,Andrés Morales,Hormonas,459.0,Extra grande
+MX-0780,Isabella Ramírez,Coagulación,42.6,Pequeña
+MX-0781,Javier Cruz,Hormonas,217.1,Grande
+MX-0782,Ana García,Microbiología,252.9,Grande
+MX-0783,Iván Molina,Serología,574.6,Extra grande
+MX-0784,Iván Molina,Serología,179.2,Grande
+MX-0785,Raúl Domínguez,Química Sanguínea,42.6,Pequeña
+MX-0786,Mónica Espinoza,Uroanálisis,355.8,Extra grande
+MX-0787,Arturo Rangel,Microbiología,316.4,Grande
+MX-0788,Renata Campos,Inmunología,60.3,Mediana
+MX-0789,Andrés Morales,Coagulación,271.2,Grande
+MX-0791,Fernanda Lara,Uroanálisis,369.4,Extra grande
+MX-0792,Raúl Domínguez,Coagulación,229.2,Grande
+MX-0794,Felipe Sandoval,Microbiología,372.1,Extra grande
+MX-0795,Gabriela Peña,Hormonas,511.0,Extra grande
+MX-0796,Luis Torres,Uroanálisis,229.2,Grande
+MX-0797,Pablo Contreras,Uroanálisis,168.0,Grande
+MX-0798,Catalina Guzmán,Coagulación,62.0,Mediana
+MX-0799,Gabriela Peña,Inmunología,204.6,Grande
+MX-0800,Valeria Ibarra,Inmunología,411.5,Extra grande
+MX-0801,Tomás Medina,Uroanálisis,196.4,Grande
+MX-0802,Ana García,Serología,58.6,Mediana
+MX-0803,Óscar Delgado,Hematología,421.7,Extra grande
+MX-0804,Valentina Flores,Hematología,468.7,Extra grande
+MX-0805,Ana García,Hematología,447.4,Extra grande
+MX-0806,Ricardo Mendoza,Serología,430.0,Extra grande
+MX-0808,Jorge Montes,Hormonas,445.2,Extra grande
+MX-0810,Luis Torres,Coagulación,206.2,Grande
+MX-0811,Jorge Montes,Química Sanguínea,485.6,Extra grande
+MX-0812,Diana Vázquez,Hormonas,394.4,Extra grande
+MX-0813,Javier Cruz,Hormonas,25.4,Pequeña
+MX-0814,Alejandro Ruiz,Microbiología,317.6,Grande
+MX-0815,Felipe Sandoval,Hematología,440.9,Extra grande
+MX-0816,Ricardo Mendoza,Microbiología,517.5,Extra grande
+MX-0818,Jimena Herrera,Uroanálisis,317.5,Grande
+MX-0819,Renata Campos,Química Sanguínea,146.4,Mediana
+MX-0820,Diana Vázquez,Serología,124.5,Mediana
+MX-0821,Ernesto Rojas,Serología,283.3,Grande
+MX-0822,Eduardo Silva,Coagulación,401.7,Extra grande
+MX-0823,Isabella Ramírez,Microbiología,313.2,Grande
+MX-0824,Adriana Pacheco,Hematología,39.9,Pequeña
+MX-0825,Diego Rodríguez,Microbiología,224.7,Grande
+MX-0826,Paula Vargas,Química Sanguínea,183.7,Grande
+MX-0827,Valeria Ibarra,Hematología,3.3,Micro
+MX-0828,Valeria Ibarra,Uroanálisis,39.5,Pequeña
+MX-0829,Catalina Guzmán,Coagulación,565.1,Extra grande
+MX-0830,Lucía Reyes,Uroanálisis,414.9,Extra grande
+MX-0831,Ernesto Rojas,Microbiología,573.1,Extra grande
+MX-0832,Pablo Contreras,Coagulación,235.0,Grande
+MX-0833,Lucía Reyes,Uroanálisis,72.2,Mediana
+MX-0834,Andrés Morales,Hormonas,170.9,Grande
+MX-0835,Manuel Estrada,Hormonas,67.8,Mediana
+MX-0836,Eduardo Silva,Coagulación,198.6,Grande
+MX-0837,Carlos Hernández,Hormonas,478.2,Extra grande
+MX-0838,Camila Díaz,Inmunología,108.1,Mediana
+MX-0840,Emilio Fuentes,Uroanálisis,512.2,Extra grande
+MX-0841,Paula Vargas,Microbiología,309.3,Grande
+MX-0842,Regina Navarro,Hormonas,301.8,Grande
+MX-0843,Andrés Morales,Microbiología,279.8,Grande
+MX-0844,Fernando Ortiz,Hormonas,187.8,Grande
+MX-0845,Ernesto Rojas,Hematología,299.0,Grande
+MX-0846,Tomás Medina,Hormonas,399.7,Extra grande
+MX-0847,Natalia Guerrero,Hematología,467.3,Extra grande
+MX-0848,Alejandro Ruiz,Inmunología,288.2,Grande
+MX-0849,Jorge Montes,Química Sanguínea,40.8,Pequeña
+MX-0850,Mariana Rosas,Química Sanguínea,399.4,Extra grande
+MX-0851,Jimena Herrera,Hematología,310.8,Grande
+MX-0852,Miguel Sánchez,Inmunología,468.9,Extra grande
+MX-0853,Manuel Estrada,Química Sanguínea,76.9,Mediana
+MX-0854,Mariana Rosas,Hematología,367.2,Extra grande
+MX-0855,Alejandro Ruiz,Uroanálisis,364.4,Extra grande
+MX-0856,Paula Vargas,Química Sanguínea,368.8,Extra grande
+MX-0857,Javier Cruz,Serología,261.7,Grande
+MX-0858,Tomás Medina,Microbiología,203.2,Grande
+MX-0859,Catalina Guzmán,Química Sanguínea,20.9,Pequeña
+MX-0860,Regina Navarro,Hormonas,276.2,Grande
+MX-0861,Jimena Herrera,Hematología,575.9,Extra grande
+MX-0862,Óscar Delgado,Química Sanguínea,436.8,Extra grande
+MX-0863,Gabriela Peña,Hormonas,92.9,Mediana
+MX-0864,Sofía Martínez,Hematología,523.8,Extra grande
+MX-0865,Ricardo Mendoza,Química Sanguínea,415.2,Extra grande
+MX-0866,Arturo Rangel,Química Sanguínea,115.9,Mediana
+MX-0868,Miguel Sánchez,Hematología,494.8,Extra grande
+MX-0869,Miguel Sánchez,Serología,160.7,Grande
+MX-0870,Gabriela Peña,Hematología,343.7,Grande
+MX-0871,Andrea Ríos,Química Sanguínea,459.3,Extra grande
+MX-0872,Paula Vargas,Hematología,244.3,Grande
+MX-0873,Regina Navarro,Microbiología,196.0,Grande
+MX-0874,Lucía Reyes,Coagulación,540.6,Extra grande
+MX-0875,Gabriela Peña,Hematología,295.4,Grande
+MX-0876,Renata Campos,Uroanálisis,74.5,Mediana
+MX-0877,Paula Vargas,Química Sanguínea,484.7,Extra grande
+MX-0878,Natalia Guerrero,Inmunología,433.0,Extra grande
+MX-0879,Natalia Guerrero,Coagulación,565.1,Extra grande
+MX-0880,Mónica Espinoza,Serología,443.4,Extra grande
+MX-0881,Paula Vargas,Coagulación,170.6,Grande
+MX-0882,Natalia Guerrero,Hematología,371.8,Extra grande
+MX-0883,Adriana Pacheco,Inmunología,148.7,Mediana
+MX-0884,Iván Molina,Serología,58.6,Mediana
+MX-0885,Diego Rodríguez,Química Sanguínea,281.4,Grande
+MX-0886,Adriana Pacheco,Microbiología,86.4,Mediana
+MX-0887,Renata Campos,Coagulación,294.0,Grande
+MX-0888,Fernando Ortiz,Uroanálisis,158.9,Grande
+MX-0889,Tomás Medina,Hormonas,316.4,Grande
+MX-0890,Alejandro Ruiz,Inmunología,334.5,Grande
+MX-0891,Eduardo Silva,Inmunología,63.8,Mediana
+MX-0892,Roberto Jiménez,Hematología,145.3,Mediana
+MX-0893,Sofía Martínez,Inmunología,74.3,Mediana
+MX-0894,Mariana Rosas,Uroanálisis,310.3,Grande
+MX-0895,Fernando Ortiz,Hormonas,587.0,Extra grande
+MX-0896,Alejandro Ruiz,Química Sanguínea,327.2,Grande
+MX-0897,Andrés Morales,Química Sanguínea,444.4,Extra grande
+MX-0898,Arturo Rangel,Serología,289.2,Grande
+MX-0899,Lucía Reyes,Inmunología,32.2,Pequeña
+MX-0900,Mariana Rosas,Hormonas,507.0,Extra grande
+MX-0901,Diana Vázquez,Serología,143.1,Mediana
+MX-0902,Fernando Ortiz,Uroanálisis,526.1,Extra grande
+MX-0903,Felipe Sandoval,Serología,305.9,Grande
+MX-0904,Héctor Aguilar,Coagulación,215.6,Grande
+MX-0905,María López,Química Sanguínea,552.7,Extra grande
+MX-0906,Emilio Fuentes,Química Sanguínea,22.2,Pequeña
+MX-0907,Emilio Fuentes,Coagulación,582.9,Extra grande
+MX-0908,Raúl Domínguez,Química Sanguínea,362.0,Extra grande
+MX-0909,Ernesto Rojas,Uroanálisis,352.6,Extra grande
+MX-0910,Diego Rodríguez,Hormonas,329.4,Grande
+MX-0911,Andrés Morales,Inmunología,3.5,Micro
+MX-0912,Fernando Ortiz,Serología,522.0,Extra grande
+MX-0913,Mariana Rosas,Coagulación,203.3,Grande
+MX-0914,Sergio Vega,Hormonas,372.0,Extra grande
+MX-0917,Fernando Ortiz,Serología,550.6,Extra grande
+MX-0918,Daniela Castillo,Química Sanguínea,452.5,Extra grande
+MX-0920,Gabriela Peña,Hematología,499.9,Extra grande
+MX-0921,Raúl Domínguez,Serología,158.6,Grande
+MX-0922,Héctor Aguilar,Hematología,518.2,Extra grande
+MX-0924,Andrés Morales,Inmunología,352.2,Extra grande
+MX-0925,Lucía Reyes,Hormonas,484.7,Extra grande
+MX-0926,Isabella Ramírez,Hematología,515.8,Extra grande
+MX-0927,Fernanda Lara,Inmunología,248.1,Grande
+MX-0928,Manuel Estrada,Hematología,210.9,Grande
+MX-0929,Carlos Hernández,Microbiología,13.4,Micro
+MX-0930,Javier Cruz,Química Sanguínea,90.2,Mediana
+MX-0931,Ricardo Mendoza,Química Sanguínea,457.9,Extra grande
+MX-0932,Tomás Medina,Uroanálisis,168.8,Grande
+MX-0933,Catalina Guzmán,Química Sanguínea,140.5,Mediana
+MX-0934,Óscar Delgado,Coagulación,565.7,Extra grande
+MX-0935,Jorge Montes,Química Sanguínea,418.2,Extra grande
+MX-0937,Jimena Herrera,Química Sanguínea,50.6,Pequeña
+MX-0938,Renata Campos,Inmunología,546.9,Extra grande
+MX-0940,Sofía Martínez,Serología,521.7,Extra grande
+MX-0941,Felipe Sandoval,Hormonas,238.2,Grande
+MX-0942,Camila Díaz,Química Sanguínea,129.2,Mediana
+MX-0943,Ricardo Mendoza,Química Sanguínea,211.2,Grande
+MX-0944,Manuel Estrada,Química Sanguínea,351.8,Extra grande
+MX-0946,Regina Navarro,Hematología,409.3,Extra grande
+MX-0947,Diana Vázquez,Coagulación,338.0,Grande
+MX-0948,Raúl Domínguez,Hematología,317.6,Grande
+MX-0949,Regina Navarro,Hematología,50.3,Pequeña
+MX-0950,Diana Vázquez,Hematología,362.9,Extra grande
+MX-0951,Camila Díaz,Coagulación,160.9,Grande
+MX-0952,Javier Cruz,Serología,140.5,Mediana
+MX-0953,Sofía Martínez,Uroanálisis,141.1,Mediana
+MX-0954,Ernesto Rojas,Química Sanguínea,442.5,Extra grande
+MX-0955,Renata Campos,Hormonas,497.5,Extra grande
+MX-0956,Jorge Montes,Coagulación,564.0,Extra grande
+MX-0957,Raúl Domínguez,Hematología,167.7,Grande
+MX-0958,Paula Vargas,Serología,442.5,Extra grande
+MX-0959,Carlos Hernández,Coagulación,182.6,Grande
+MX-0960,Arturo Rangel,Hematología,357.5,Extra grande
+MX-0961,Catalina Guzmán,Microbiología,502.2,Extra grande
+MX-0962,Ricardo Mendoza,Serología,147.0,Mediana
+MX-0963,Gabriela Peña,Coagulación,406.9,Extra grande
+MX-0964,Ana García,Hematología,366.9,Extra grande
+MX-0965,Roberto Jiménez,Hormonas,28.1,Pequeña
+MX-0966,Miguel Sánchez,Hematología,532.9,Extra grande
+MX-0968,Fernando Ortiz,Serología,195.8,Grande
+MX-0969,Adriana Pacheco,Inmunología,190.1,Grande
+MX-0970,Raúl Domínguez,Coagulación,491.8,Extra grande
+MX-0971,Carlos Hernández,Serología,427.8,Extra grande
+MX-0972,Luis Torres,Microbiología,589.1,Extra grande
+MX-0973,Valentina Flores,Uroanálisis,545.3,Extra grande
+MX-0974,Paula Vargas,Uroanálisis,161.2,Grande
+MX-0975,Daniela Castillo,Serología,173.3,Grande
+MX-0976,Renata Campos,Inmunología,123.6,Mediana
+MX-0978,Daniela Castillo,Inmunología,474.1,Extra grande
+MX-0979,Óscar Delgado,Inmunología,587.6,Extra grande
+MX-0981,Arturo Rangel,Uroanálisis,445.7,Extra grande
+MX-0982,Héctor Aguilar,Serología,145.5,Mediana
+MX-0984,Mónica Espinoza,Inmunología,393.6,Extra grande
+MX-0985,Isabella Ramírez,Serología,551.1,Extra grande
+MX-0987,Mariana Rosas,Hormonas,378.8,Extra grande
+MX-0988,Arturo Rangel,Inmunología,138.7,Mediana
+MX-0989,Ricardo Mendoza,Hormonas,61.8,Mediana
+MX-0991,Adriana Pacheco,Coagulación,273.6,Grande
+MX-0992,Carlos Hernández,Uroanálisis,544.2,Extra grande
+MX-0993,Elena Salazar,Coagulación,561.0,Extra grande
+MX-0994,Fernanda Lara,Serología,28.7,Pequeña
+MX-0995,Alejandro Ruiz,Hormonas,588.9,Extra grande
+MX-0996,Camila Díaz,Hematología,269.7,Grande
+MX-0997,Paula Vargas,Hematología,199.9,Grande
+MX-0998,Mariana Rosas,Serología,571.3,Extra grande
+MX-0999,Manuel Estrada,Serología,209.7,Grande
+MX-1000,Raúl Domínguez,Hematología,402.5,Extra grande
