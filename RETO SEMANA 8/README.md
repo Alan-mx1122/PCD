@@ -41,6 +41,12 @@ Tras la consideración y el filtrado de las matrices de datos, el bloque bonus c
 - **Rankings de Estaciones:** Identificación de extremos locales para clasificar las zonas más cálidas, húmedas o con mejor calidad de aire del entorno.
 - **Patrones Horarios Críticos:** Detección exacta de las horas del día que registran mayor degradación ambiental y estrés térmico acumulado.
 
+## Cómo ejecutar
+
+1. Abrir `reto_08_metricas_sensores.ipynb` en Jupyter Notebook o JupyterLab.
+2. Seleccionar **Kernel → Restart & Run All**.
+3. Verificar que todas las celdas se ejecuten sin errores y muestren los resultados.
+
 ## Autor:
 
 Domínguez Chimal Alan Eduardo
