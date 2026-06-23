@@ -1,0 +1,34 @@
+[
+    {
+        "materia_id": "MAT001",
+        "nombre": "Cálculo Diferencial",
+        "parcial_1": 6.9,
+        "parcial_2": 9.8,
+        "final": 8.7,
+        "promedio": 8.47
+    },
+    {
+        "materia_id": "MAT002",
+        "nombre": "Álgebra Lineal",
+        "parcial_1": 8.0,
+        "parcial_2": 5.8,
+        "final": 5.8,
+        "promedio": 6.53
+    },
+    {
+        "materia_id": "MAT003",
+        "nombre": "Probabilidad",
+        "parcial_1": 5.3,
+        "parcial_2": 9.3,
+        "final": 8.0,
+        "promedio": 7.53
+    },
+    {
+        "materia_id": "MAT004",
+        "nombre": "Programación",
+        "parcial_1": 8.5,
+        "parcial_2": 5.1,
+        "final": 9.8,
+        "promedio": 7.8
+    }
+]
